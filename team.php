@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 
-<!-- Mirrored from wp.hostlin.com/nijmegan/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:22 GMT -->
+<!-- Mirrored from wp.hostlin.com/nijmegan/team.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:23 GMT -->
 <head>
 <meta charset="utf-8">
-<title>Nijmegan - Factory and Industrial HTML5 Template | About Us</title>
+<title>Nijmegan - Factory and Industrial HTML5 Template | Team</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/revolution-slider.css" rel="stylesheet">
@@ -22,10 +22,10 @@
 
 <body>
 <div class="page-wrapper">
- 	
+
     <!-- Preloader -->
     <div class="preloader"></div>
- 	
+
     <!-- Main Header / Header Style Two-->
     <header class="main-header header-style-two">
         <!-- Header Top -->
@@ -37,7 +37,7 @@
                     	<li>World’s Leading Industrial Solution Provider</li>
                     </ul>
                 </div>
-                
+
                 <!--Top Right-->
             	<div class="top-right pull-right">
                 	<ul class="links-nav clearfix">
@@ -46,31 +46,32 @@
                     </ul>
                 </div>
             </div>
-        </div><!-- Header Top End -->
-        
+        </div>
+        <!-- Header Top End -->
+
     	<!--Header-Upper-->
         <div class="header-upper">
         	<div class="auto-container">
             	<div class="clearfix">
-                	
+
                 	<div class="pull-left logo-outer">
                     	<div class="logo"><a href="index-2.html"><img src="images/logo.png" alt="" title=""></a></div>
                     </div>
-                    
+
                     <div class="pull-right upper-right clearfix">
-                    	
+
                         <div class="nav-outer clearfix">
                             <!-- Main Menu -->
                             <nav class="main-menu">
                                 <div class="navbar-header">
-                                    <!-- Toggle Button -->    	
+                                    <!-- Toggle Button -->
                                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                     </button>
                                 </div>
-                                
+
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
                                         <li class="dropdown"><a href="#">Home</a>
@@ -89,47 +90,47 @@
                                         </li>
                                         <li class="current dropdown"><a href="#">About</a>
                                             <ul>
-                                                <li><a href="about-us.html">About Us</a></li>
+                                                <li><a href="about-us.php">About Us</a></li>
                                                 <li><a href="team.html">Our Team</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Services</a>
                                             <ul>
-                                                <li><a href="services.html">Our Services</a></li>
-                                                <li><a href="services-single.html">Agricultural Processing</a></li>
-                                                <li><a href="services-single.html">Chemical Research</a></li>
-                                                <li><a href="services-single.html">Material Engineering</a></li>
-                                                <li><a href="services-single.html">Mechanical Engineering</a></li>
-                                                <li><a href="services-single.html">Petroleum and Gas</a></li>
-                                                <li><a href="services-single.html">Power and Energy</a></li>
+                                                <li><a href="services.php">Our Services</a></li>
+                                                <li><a href="services-single.php">Agricultural Processing</a></li>
+                                                <li><a href="services-single.php">Chemical Research</a></li>
+                                                <li><a href="services-single.php">Material Engineering</a></li>
+                                                <li><a href="services-single.php">Mechanical Engineering</a></li>
+                                                <li><a href="services-single.php">Petroleum and Gas</a></li>
+                                                <li><a href="services-single.php">Power and Energy</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Project</a>
                                             <ul>
                                                 <li><a href="project.html">Project</a></li>
-                                                <li><a href="project-single.html">Project Single</a></li>
+                                                <li><a href="project-single.php">Project Single</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Shop</a>
                                             <ul>
-                                                <li><a href="shop.html">Our Shop</a></li>
-                                                <li><a href="shop-single.html">Shop Single</a></li>
+                                                <li><a href="shop.php">Our Shop</a></li>
+                                                <li><a href="shop-single.php">Shop Single</a></li>
                                                 <li><a href="shopping-cart.html">Shopping Cart</a></li>
                                                 <li><a href="checkout.html">Checkout</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Blog</a>
                                             <ul>
-                                                <li><a href="blog-grid.html">Our Blog</a></li>
-                                                <li><a href="blog-single.html">Blog Detail</a></li>
+                                                <li><a href="blog-grid.php">Our Blog</a></li>
+                                                <li><a href="blog-single.php">Blog Detail</a></li>
                                                 <li><a href="error-page.html">Error Page</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="contact.php">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </nav><!-- Main Menu End-->
-                            
+
                             <!--Quote Button-->
                             <div class="btn-outer">
                             	<!--Search Box-->
@@ -152,15 +153,15 @@
                                 </div>
 
                             </div>
-                            
+
                         </div>
-                        
+
                     </div>
-                    
+
                 </div>
             </div>
         </div>
-        
+
         <!--Sticky Header-->
         <div class="sticky-header">
         	<div class="auto-container clearfix">
@@ -168,20 +169,20 @@
             	<div class="logo pull-left">
                 	<a href="index-2.html" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
                 </div>
-                
+
                 <!--Right Col-->
                 <div class="right-col pull-right">
                 	<!-- Main Menu -->
                     <nav class="main-menu">
                         <div class="navbar-header">
-                            <!-- Toggle Button -->    	
+                            <!-- Toggle Button -->
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             </button>
                         </div>
-                        
+
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
                                 <li class="dropdown"><a href="#">Home</a>
@@ -200,168 +201,84 @@
                                 </li>
                                 <li class="current dropdown"><a href="#">About</a>
                                 	<ul>
-                                        <li><a href="about-us.html">About Us</a></li>
+                                        <li><a href="about-us.php">About Us</a></li>
                                         <li><a href="team.html">Our Team</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Services</a>
                                     <ul>
-                                        <li><a href="services.html">Our Services</a></li>
-                                        <li><a href="services-single.html">Agricultural Processing</a></li>
-                                        <li><a href="services-single.html">Chemical Research</a></li>
-                                        <li><a href="services-single.html">Material Engineering</a></li>
-                                        <li><a href="services-single.html">Mechanical Engineering</a></li>
-                                        <li><a href="services-single.html">Petroleum and Gas</a></li>
-                                        <li><a href="services-single.html">Power and Energy</a></li>
+                                        <li><a href="services.php">Our Services</a></li>
+                                        <li><a href="services-single.php">Agricultural Processing</a></li>
+                                        <li><a href="services-single.php">Chemical Research</a></li>
+                                        <li><a href="services-single.php">Material Engineering</a></li>
+                                        <li><a href="services-single.php">Mechanical Engineering</a></li>
+                                        <li><a href="services-single.php">Petroleum and Gas</a></li>
+                                        <li><a href="services-single.php">Power and Energy</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Project</a>
                                     <ul>
                                     	<li><a href="project.html">Project</a></li>
-                                        <li><a href="project-single.html">Project Single</a></li>
+                                        <li><a href="project-single.php">Project Single</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Shop</a>
                                     <ul>
-                                        <li><a href="shop.html">Our Shop</a></li>
-                                        <li><a href="shop-single.html">Shop Single</a></li>
+                                        <li><a href="shop.php">Our Shop</a></li>
+                                        <li><a href="shop-single.php">Shop Single</a></li>
                                         <li><a href="shopping-cart.html">Shopping Cart</a></li>
                                         <li><a href="checkout.html">Checkout</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Blog</a>
                                     <ul>
-                                        <li><a href="blog-grid.html">Our Blog</a></li>
-                                        <li><a href="blog-single.html">Blog Detail</a></li>
+                                        <li><a href="blog-grid.php">Our Blog</a></li>
+                                        <li><a href="blog-single.php">Blog Detail</a></li>
                                         <li><a href="error-page.html">Error Page</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->
                 </div>
-                
+
             </div>
-        </div><!--End Sticky Header-->
-    
+        </div>
+        <!--End Sticky Header-->
+
     </header>
     <!--End Main Header -->
-    
+
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/5.jpg);">
     	<div class="auto-container">
         	<div class="row clearfix">
             	<!--Title -->
             	<div class="title-column col-md-6 col-sm-6 col-xs-12">
-                	<h1>About</h1>
+                	<h1>Team</h1>
                 </div>
                 <!--Bread Crumb -->
                 <div class="breadcrumb-column col-md-6 col-sm-6 col-xs-12">
                     <ul class="bread-crumb clearfix">
                         <li><a href="index-2.html">Home</a></li>
-                        <li class="active">About</li>
+                        <li class="active">team</li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
     <!--End Page Title-->
-    
-    <!--About Section-->
-    <section class="about-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	<!--Content Column-->
-            	<div class="content-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="icon-box"><span class="icon flaticon-helmet"></span></div>
-                	<div class="inner-box">
-                    	<!--Sec Title-->
-                    	<div class="sec-title">
-                        	<div class="title">Who we are</div>
-                            <h2>ABOUT <span>INDUSTRY</span></h2>
-                        </div>
-                        <div class="text">
-                        	<p class="dark-text">Lean startup infographic learning curve angel investor accelerator freemium traction iPad iPhone bandwidth virality responsive web design. </p>
-                            <p>Startup crowdsource prototype supply chain. Mass market release user experience. Long tail incubator supply chain. Focus facebook return on investment android growth hacking. Channels focus churn rate client innovator MVP niche market partner network learning curve. </p>
-                        </div>
-                        <a href="#" class="theme-btn btn-style-two">Read More</a>
-                    </div>
-                </div>
-                <!--Image Column-->
-                <div class="image-column col-md-6 col-sm-12 col-xs-12">
-                	<!--video-box-->
-                	<div class="video-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<figure class="image">
-                        	<img src="images/resource/about.jpg" alt="" />
-                        </figure>
-                        <a href="https://www.youtube.com/watch?v=0e1uTwSRGgI" class="lightbox-image overlay-box"><span class="flaticon-arrows-5"></span></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End About Section-->
-    
-    <!--Services Section-->
-    <section class="services-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	<!--Services Block-->
-            	<div class="services-block col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-wrench"></span>
-                        </div>
-                        <h3><a href="services-single.html">Creditable Integrity</a></h3>
-                        <div class="text">Interaction design business-to-business low hanging fruit bootstrapping startup launch party user experience bandwidth web design.</div>
-                        <a href="services-single.html" class="read-more">Read More</a>
-                    </div>
-                </div>
-                
-                <!--Services Block-->
-            	<div class="services-block col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="300ms" data-wow-duration="1500ms">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-helmet"></span>
-                        </div>
-                        <h3><a href="services-single.html">Effective Team Work</a></h3>
-                        <div class="text">Interaction design business-to-business low hanging fruit bootstrapping startup launch party user experience bandwidth web design.</div>
-                        <a href="services-single.html" class="read-more">Read More</a>
-                    </div>
-                </div>
-                
-                <!--Services Block-->
-            	<div class="services-block col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="600ms" data-wow-duration="1500ms">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-award"></span>
-                        </div>
-                        <h3><a href="services-single.html">Quality Assurance</a></h3>
-                        <div class="text">Interaction design business-to-business low hanging fruit bootstrapping startup launch party user experience bandwidth web design.</div>
-                        <a href="services-single.html" class="read-more">Read More</a>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Services Section-->
-    
+
     <!--Team Section-->
     <section class="team-section">
     	<div class="auto-container">
-        	<!--Sec Title Two-->
-            <div class="sec-title-two">
-            	<div class="title">Our Specialists</div>
-                <h2>EXPERT TEAM</h2>
-            </div>
-            
+
             <div class="row clearfix">
             	<!--Team Member-->
             	<div class="team-member col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box">
-                    	<figure class="image wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<figure class="image">
                         	<img src="images/resource/team-1.jpg" alt="" />
                         </figure>
                         <!--Lower Box-->
@@ -371,10 +288,10 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <!--Team Member-->
             	<div class="team-member col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="300ms" data-wow-duration="1500ms">
+                	<div class="inner-box">
                     	<figure class="image">
                         	<img src="images/resource/team-2.jpg" alt="" />
                         </figure>
@@ -385,11 +302,11 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <!--Team Member-->
             	<div class="team-member col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box">
-                    	<figure class="image wow fadeIn" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    	<figure class="image">
                         	<img src="images/resource/team-3.jpg" alt="" />
                         </figure>
                         <!--Lower Box-->
@@ -399,45 +316,63 @@
                         </div>
                     </div>
                 </div>
-                
+
+                <!--Team Member-->
+            	<div class="team-member col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box">
+                    	<figure class="image">
+                        	<img src="images/resource/team-4.jpg" alt="" />
+                        </figure>
+                        <!--Lower Box-->
+                        <div class="lower-box">
+                        	<h3><a href="#">Alastair Cook</a></h3>
+                            <div class="designation">Automation Engineer</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Team Member-->
+            	<div class="team-member col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box">
+                    	<figure class="image">
+                        	<img src="images/resource/team-5.jpg" alt="" />
+                        </figure>
+                        <!--Lower Box-->
+                        <div class="lower-box">
+                        	<h3><a href="#">Chris Master</a></h3>
+                            <div class="designation">Welder</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Team Member-->
+            	<div class="team-member col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box">
+                    	<figure class="image">
+                        	<img src="images/resource/team-6.jpg" alt="" />
+                        </figure>
+                        <!--Lower Box-->
+                        <div class="lower-box">
+                        	<h3><a href="#">Ben Stroke</a></h3>
+                            <div class="designation">Automation Engineer</div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
             <div class="big-icon"><span class="icon flaticon-people-3"></span></div>
         </div>
     </section>
     <!--End Team Section-->
-    
-    <!--Sponsors Section-->
-    <section class="sponsors-section">
-    	<div class="auto-container">
-        	<div class="carousel-outer">
-                <!--Sponsors Slider-->
-                <ul class="sponsors-carousel owl-carousel owl-theme">
-                    <li><div class="image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/11.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/12.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/11.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/12.png" alt=""></a></div></li>
-                </ul>
-            </div>
-    	</div>
-    </section>
-    <!--End Sponsors Section-->
-    
+
     <!--Main Footer-->
     <footer class="main-footer">
     	<div class="auto-container">
-        	
+
             <!--Widgets Section-->
             <div class="widgets-section">
             	<div class="row clearfix">
-                
+
                 	<!--Big Column-->
                 	<div class="big-column col-md-6 col-sm-12 col-xs-12">
                     	<div class="row clearfix">
@@ -462,7 +397,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
                             	<div class="footer-widget links-widget">
@@ -478,11 +413,11 @@
 
 						</div>
                     </div>
-                    
+
                     <!--Big Column-->
                 	<div class="big-column col-md-6 col-sm-12 col-xs-12">
                     	<div class="row clearfix">
-                        
+
 							<!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
 								<div class="footer-widget twitter-widget">
@@ -501,12 +436,12 @@
                                     </div>
                                 </div>
 							</div>
-                            
+
                             <!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
                                 <div class="footer-widget carousel-widget">
                                     <h2>Gallery</h2>
-                                    
+
                                     <div class="single-item-carousel owl-carousel owl-theme">
                                         <div class="slide">
                                             <img src="images/resource/footer-slide.jpg" alt="" />
@@ -518,26 +453,26 @@
                                             <img src="images/resource/footer-slide.jpg" alt="" />
                                         </div>
                                     </div>
-                                    
+
                                 </div>
 							</div>
-                            
+
 						</div>
                     </div>
-                    
+
                 </div>
             </div>
-                        
+
     	</div>
-        
+
         <!--Footer Bottom-->
             <div class="footer-bottom">
                 <div class="auto-container"><div class="copyright">Copyright &copy; 2017 Industry. All Rights Reserved</div></div>
             </div>
-        
+
     </footer>
     <!--End Main Footer-->
-    
+
 </div>
 <!--End pagewrapper-->
 
@@ -545,7 +480,7 @@
 <div class="scroll-to-top scroll-to-target" data-target=".main-header"><span class="icon fa fa-long-arrow-up"></span></div>
 
 
-<script src="js/jquery.js"></script> 
+<script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/revolution.min.js"></script>
 <script src="js/jquery.fancybox.pack.js"></script>
@@ -556,5 +491,5 @@
 <script src="js/script.js"></script>
 </body>
 
-<!-- Mirrored from wp.hostlin.com/nijmegan/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:23 GMT -->
+<!-- Mirrored from wp.hostlin.com/nijmegan/team.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:27 GMT -->
 </html>

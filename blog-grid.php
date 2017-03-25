@@ -22,10 +22,10 @@
 
 <body>
 <div class="page-wrapper">
- 	
+
     <!-- Preloader -->
     <div class="preloader"></div>
- 	
+
     <!-- Main Header / Header Style Two-->
     <header class="main-header header-style-two">
         <!-- Header Top -->
@@ -37,7 +37,7 @@
                     	<li>World’s Leading Industrial Solution Provider</li>
                     </ul>
                 </div>
-                
+
                 <!--Top Right-->
             	<div class="top-right pull-right">
                 	<ul class="links-nav clearfix">
@@ -48,30 +48,30 @@
             </div>
         </div>
         <!-- Header Top End -->
-        
+
     	<!--Header-Upper-->
         <div class="header-upper">
         	<div class="auto-container">
             	<div class="clearfix">
-                	
+
                 	<div class="pull-left logo-outer">
                     	<div class="logo"><a href="index-2.html"><img src="images/logo.png" alt="" title=""></a></div>
                     </div>
-                    
+
                     <div class="pull-right upper-right clearfix">
-                    	
+
                         <div class="nav-outer clearfix">
                             <!-- Main Menu -->
                             <nav class="main-menu">
                                 <div class="navbar-header">
-                                    <!-- Toggle Button -->    	
+                                    <!-- Toggle Button -->
                                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                     </button>
                                 </div>
-                                
+
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
                                         <li class="dropdown"><a href="#">Home</a>
@@ -90,31 +90,31 @@
                                         </li>
                                         <li class="dropdown"><a href="#">About</a>
                                             <ul>
-                                                <li><a href="about-us.html">About Us</a></li>
-                                                <li><a href="team.html">Our Team</a></li>
+                                                <li><a href="about-us.php">About Us</a></li>
+                                                <li><a href="team.php">Our Team</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Services</a>
                                             <ul>
-                                                <li><a href="services.html">Our Services</a></li>
-                                                <li><a href="services-single.html">Agricultural Processing</a></li>
-                                                <li><a href="services-single.html">Chemical Research</a></li>
-                                                <li><a href="services-single.html">Material Engineering</a></li>
-                                                <li><a href="services-single.html">Mechanical Engineering</a></li>
-                                                <li><a href="services-single.html">Petroleum and Gas</a></li>
-                                                <li><a href="services-single.html">Power and Energy</a></li>
+                                                <li><a href="services.php">Our Services</a></li>
+                                                <li><a href="services-single.php">Agricultural Processing</a></li>
+                                                <li><a href="services-single.php">Chemical Research</a></li>
+                                                <li><a href="services-single.php">Material Engineering</a></li>
+                                                <li><a href="services-single.php">Mechanical Engineering</a></li>
+                                                <li><a href="services-single.php">Petroleum and Gas</a></li>
+                                                <li><a href="services-single.php">Power and Energy</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Project</a>
                                             <ul>
                                                 <li><a href="project.html">Project</a></li>
-                                                <li><a href="project-single.html">Project Single</a></li>
+                                                <li><a href="project-single.php">Project Single</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Shop</a>
                                             <ul>
-                                                <li><a href="shop.html">Our Shop</a></li>
-                                                <li><a href="shop-single.html">Shop Single</a></li>
+                                                <li><a href="shop.php">Our Shop</a></li>
+                                                <li><a href="shop-single.php">Shop Single</a></li>
                                                 <li><a href="shopping-cart.html">Shopping Cart</a></li>
                                                 <li><a href="checkout.html">Checkout</a></li>
                                             </ul>
@@ -122,15 +122,15 @@
                                         <li class="current dropdown"><a href="#">Blog</a>
                                             <ul>
                                                 <li><a href="blog-grid.html">Our Blog</a></li>
-                                                <li><a href="blog-single.html">Blog Detail</a></li>
+                                                <li><a href="blog-single.php">Blog Detail</a></li>
                                                 <li><a href="error-page.html">Error Page</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="contact.php">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </nav><!-- Main Menu End-->
-                            
+
                             <!--Quote Button-->
                             <div class="btn-outer">
                             	<!--Search Box-->
@@ -153,15 +153,15 @@
                                 </div>
 
                             </div>
-                            
+
                         </div>
-                        
+
                     </div>
-                    
+
                 </div>
             </div>
         </div>
-        
+
         <!--Sticky Header-->
         <div class="sticky-header">
         	<div class="auto-container clearfix">
@@ -169,20 +169,20 @@
             	<div class="logo pull-left">
                 	<a href="index-2.html" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
                 </div>
-                
+
                 <!--Right Col-->
                 <div class="right-col pull-right">
                 	<!-- Main Menu -->
                     <nav class="main-menu">
                         <div class="navbar-header">
-                            <!-- Toggle Button -->    	
+                            <!-- Toggle Button -->
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             </button>
                         </div>
-                        
+
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
                                 <li class="dropdown"><a href="#">Home</a>
@@ -201,31 +201,31 @@
                                 </li>
                                 <li class="dropdown"><a href="#">About</a>
                                 	<ul>
-                                        <li><a href="about-us.html">About Us</a></li>
-                                        <li><a href="team.html">Our Team</a></li>
+                                        <li><a href="about-us.php">About Us</a></li>
+                                        <li><a href="team.php">Our Team</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Services</a>
                                     <ul>
-                                        <li><a href="services.html">Our Services</a></li>
-                                        <li><a href="services-single.html">Agricultural Processing</a></li>
-                                        <li><a href="services-single.html">Chemical Research</a></li>
-                                        <li><a href="services-single.html">Material Engineering</a></li>
-                                        <li><a href="services-single.html">Mechanical Engineering</a></li>
-                                        <li><a href="services-single.html">Petroleum and Gas</a></li>
-                                        <li><a href="services-single.html">Power and Energy</a></li>
+                                        <li><a href="services.php">Our Services</a></li>
+                                        <li><a href="services-single.php">Agricultural Processing</a></li>
+                                        <li><a href="services-single.php">Chemical Research</a></li>
+                                        <li><a href="services-single.php">Material Engineering</a></li>
+                                        <li><a href="services-single.php">Mechanical Engineering</a></li>
+                                        <li><a href="services-single.php">Petroleum and Gas</a></li>
+                                        <li><a href="services-single.php">Power and Energy</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Project</a>
                                     <ul>
                                     	<li><a href="project.html">Project</a></li>
-                                        <li><a href="project-single.html">Project Single</a></li>
+                                        <li><a href="project-single.php">Project Single</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Shop</a>
                                     <ul>
-                                        <li><a href="shop.html">Our Shop</a></li>
-                                        <li><a href="shop-single.html">Shop Single</a></li>
+                                        <li><a href="shop.php">Our Shop</a></li>
+                                        <li><a href="shop-single.php">Shop Single</a></li>
                                         <li><a href="shopping-cart.html">Shopping Cart</a></li>
                                         <li><a href="checkout.html">Checkout</a></li>
                                     </ul>
@@ -233,23 +233,23 @@
                                 <li class="current dropdown"><a href="#">Blog</a>
                                     <ul>
                                         <li><a href="blog-grid.html">Our Blog</a></li>
-                                        <li><a href="blog-single.html">Blog Detail</a></li>
+                                        <li><a href="blog-single.php">Blog Detail</a></li>
                                         <li><a href="error-page.html">Error Page</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->
                 </div>
-                
+
             </div>
         </div>
         <!--End Sticky Header-->
-    
+
     </header>
     <!--End Main Header -->
-    
+
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/5.jpg);">
     	<div class="auto-container">
@@ -269,62 +269,62 @@
         </div>
     </section>
     <!--End Page Title-->
-    
+
     <!--News Grid Section-->
     <section class="news-grid-section">
     	<div class="auto-container">
         	<div class="row clearfix">
-            	
+
                 <!--News Block Two-->
             	<div class="news-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<a href="blog-single.html"><img src="images/resource/news-3.jpg" alt="" /></a>
+                        	<a href="blog-single.php"><img src="images/resource/news-3.jpg" alt="" /></a>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="blog-single.html">Material Suppliers from North America</a></h3>
+                        	<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
                             <ul class="post-meta">
                                 <li>By <span>Adam Smith</span></li>
                                 <li class="date">Nov 07, 2016</li>
                             </ul>
                             <div class="text">Startup equity interaction design scrum project prototype management branding business.</div>
-                            <a href="blog-single.html" class="read-more">READ MORE</a>
+                            <a href="blog-single.php" class="read-more">READ MORE</a>
                         </div>
                     </div>
                 </div>
-                
+
                 <!--News Block Two-->
             	<div class="news-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="300ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<a href="blog-single.html"><img src="images/resource/news-4.jpg" alt="" /></a>
+                        	<a href="blog-single.php"><img src="images/resource/news-4.jpg" alt="" /></a>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="blog-single.html">Material Suppliers from North America</a></h3>
+                        	<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
                             <ul class="post-meta">
                                 <li>By <span>Johny Britt</span></li>
                                 <li class="date">Nov 11, 2016</li>
                             </ul>
                             <div class="text">Startup equity interaction design scrum project prototype management branding business.</div>
-                            <a href="blog-single.html" class="read-more">READ MORE</a>
+                            <a href="blog-single.php" class="read-more">READ MORE</a>
                         </div>
                     </div>
                 </div>
-                
+
                 <!--News Block Two-->
             	<div class="news-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="600ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<a href="blog-single.html"><img src="images/resource/news-6.jpg" alt="" /></a>
+                        	<a href="blog-single.php"><img src="images/resource/news-6.jpg" alt="" /></a>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="blog-single.html">Material Suppliers from North America</a></h3>
+                        	<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
                             <ul class="post-meta">
                                 <li>By <span>Alex Henry</span></li>
                                 <li class="date">Nov 15, 2016</li>
                             </ul>
                             <div class="text">Startup equity interaction design scrum project prototype management branding business.</div>
-                            <a href="blog-single.html" class="read-more">READ MORE</a>
+                            <a href="blog-single.php" class="read-more">READ MORE</a>
                         </div>
                     </div>
                 </div>
@@ -333,112 +333,112 @@
             	<div class="news-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<a href="blog-single.html"><img src="images/resource/news-7.jpg" alt="" /></a>
+                        	<a href="blog-single.php"><img src="images/resource/news-7.jpg" alt="" /></a>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="blog-single.html">Material Suppliers from North America</a></h3>
+                        	<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
                             <ul class="post-meta">
                                 <li>By <span>Adam Smith</span></li>
                                 <li class="date">Nov 17, 2016</li>
                             </ul>
                             <div class="text">Startup equity interaction design scrum project prototype management branding business.</div>
-                            <a href="blog-single.html" class="read-more">READ MORE</a>
+                            <a href="blog-single.php" class="read-more">READ MORE</a>
                         </div>
                     </div>
                 </div>
-                
+
                 <!--News Block Two-->
             	<div class="news-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="300ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<a href="blog-single.html"><img src="images/resource/news-8.jpg" alt="" /></a>
+                        	<a href="blog-single.php"><img src="images/resource/news-8.jpg" alt="" /></a>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="blog-single.html">Material Suppliers from North America</a></h3>
+                        	<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
                             <ul class="post-meta">
                                 <li>By <span>Johny Britt</span></li>
                                 <li class="date">Nov 21, 2016</li>
                             </ul>
                             <div class="text">Startup equity interaction design scrum project prototype management branding business.</div>
-                            <a href="blog-single.html" class="read-more">READ MORE</a>
+                            <a href="blog-single.php" class="read-more">READ MORE</a>
                         </div>
                     </div>
                 </div>
-                
+
                 <!--News Block Two-->
             	<div class="news-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="600ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<a href="blog-single.html"><img src="images/resource/news-9.jpg" alt="" /></a>
+                        	<a href="blog-single.php"><img src="images/resource/news-9.jpg" alt="" /></a>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="blog-single.html">Material Suppliers from North America</a></h3>
+                        	<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
                             <ul class="post-meta">
                                 <li>By <span>Alex Henry</span></li>
                                 <li class="date">Nov 25, 2016</li>
                             </ul>
                             <div class="text">Startup equity interaction design scrum project prototype management branding business.</div>
-                            <a href="blog-single.html" class="read-more">READ MORE</a>
+                            <a href="blog-single.php" class="read-more">READ MORE</a>
                         </div>
                     </div>
                 </div>
-                
+
                 <!--News Block Two-->
             	<div class="news-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<a href="blog-single.html"><img src="images/resource/news-10.jpg" alt="" /></a>
+                        	<a href="blog-single.php"><img src="images/resource/news-10.jpg" alt="" /></a>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="blog-single.html">Material Suppliers from North America</a></h3>
+                        	<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
                             <ul class="post-meta">
                                 <li>By <span>Adam Smith</span></li>
                                 <li class="date">Nov 27, 2016</li>
                             </ul>
                             <div class="text">Startup equity interaction design scrum project prototype management branding business.</div>
-                            <a href="blog-single.html" class="read-more">READ MORE</a>
+                            <a href="blog-single.php" class="read-more">READ MORE</a>
                         </div>
                     </div>
                 </div>
-                
+
                 <!--News Block Two-->
             	<div class="news-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="300ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<a href="blog-single.html"><img src="images/resource/news-11.jpg" alt="" /></a>
+                        	<a href="blog-single.php"><img src="images/resource/news-11.jpg" alt="" /></a>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="blog-single.html">Material Suppliers from North America</a></h3>
+                        	<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
                             <ul class="post-meta">
                                 <li>By <span>Johny Britt</span></li>
                                 <li class="date">Dec 01, 2016</li>
                             </ul>
                             <div class="text">Startup equity interaction design scrum project prototype management branding business.</div>
-                            <a href="blog-single.html" class="read-more">READ MORE</a>
+                            <a href="blog-single.php" class="read-more">READ MORE</a>
                         </div>
                     </div>
                 </div>
-                
+
                 <!--News Block Two-->
             	<div class="news-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="600ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<a href="blog-single.html"><img src="images/resource/news-12.jpg" alt="" /></a>
+                        	<a href="blog-single.php"><img src="images/resource/news-12.jpg" alt="" /></a>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="blog-single.html">Material Suppliers from North America</a></h3>
+                        	<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
                             <ul class="post-meta">
                                 <li>By <span>Alex Henry</span></li>
                                 <li class="date">Dec 05, 2016</li>
                             </ul>
                             <div class="text">Startup equity interaction design scrum project prototype management branding business.</div>
-                            <a href="blog-single.html" class="read-more">READ MORE</a>
+                            <a href="blog-single.php" class="read-more">READ MORE</a>
                         </div>
                     </div>
                 </div>
-                
+
             </div>
-            
+
             <!--Styled Pagination-->
             <div class="styled-pagination text-center">
                 <ul>
@@ -448,18 +448,18 @@
                     <li><a href="#"><span class="fa fa-angle-double-right"></span></a></li>
                 </ul>
             </div>
-            
+
         </div>
     </section>
-        
+
     <!--Main Footer-->
     <footer class="main-footer">
     	<div class="auto-container">
-        	
+
             <!--Widgets Section-->
             <div class="widgets-section">
             	<div class="row clearfix">
-                
+
                 	<!--Big Column-->
                 	<div class="big-column col-md-6 col-sm-12 col-xs-12">
                     	<div class="row clearfix">
@@ -484,7 +484,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
                             	<div class="footer-widget links-widget">
@@ -500,11 +500,11 @@
 
 						</div>
                     </div>
-                    
+
                     <!--Big Column-->
                 	<div class="big-column col-md-6 col-sm-12 col-xs-12">
                     	<div class="row clearfix">
-                        
+
 							<!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
 								<div class="footer-widget twitter-widget">
@@ -523,12 +523,12 @@
                                     </div>
                                 </div>
 							</div>
-                            
+
                             <!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
                                 <div class="footer-widget carousel-widget">
                                     <h2>Gallery</h2>
-                                    
+
                                     <div class="single-item-carousel owl-carousel owl-theme">
                                         <div class="slide">
                                             <img src="images/resource/footer-slide.jpg" alt="" />
@@ -540,26 +540,26 @@
                                             <img src="images/resource/footer-slide.jpg" alt="" />
                                         </div>
                                     </div>
-                                    
+
                                 </div>
 							</div>
-                            
+
 						</div>
                     </div>
-                    
+
                 </div>
             </div>
-                        
+
     	</div>
-        
+
         <!--Footer Bottom-->
             <div class="footer-bottom">
                 <div class="auto-container"><div class="copyright">Copyright &copy; 2017 Industry. All Rights Reserved</div></div>
             </div>
-        
+
     </footer>
     <!--End Main Footer-->
-    
+
 </div>
 <!--End pagewrapper-->
 
@@ -567,7 +567,7 @@
 <div class="scroll-to-top scroll-to-target" data-target=".main-header"><span class="icon fa fa-long-arrow-up"></span></div>
 
 
-<script src="js/jquery.js"></script> 
+<script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/revolution.min.js"></script>
 <script src="js/jquery.fancybox.pack.js"></script>

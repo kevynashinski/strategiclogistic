@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html>
 
-<!-- Mirrored from wp.hostlin.com/nijmegan/shop-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:51 GMT -->
+<!-- Mirrored from wp.hostlin.com/nijmegan/shop.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:37 GMT -->
 <head>
 <meta charset="utf-8">
-<title>Nijmegan - Factory and Industrial HTML5 Template | Shop Single</title>
+<title>Nijmegan - Factory and Industrial HTML5 Template | Shop</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/revolution-slider.css" rel="stylesheet">
 <link href="css/nouislider.css" rel="stylesheet">
 <link href="css/nouislider.pips.css" rel="stylesheet">
-<link href="css/jquery.bootstrap-touchspin.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <!--Favicon-->
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
@@ -25,10 +24,10 @@
 
 <body>
 <div class="page-wrapper">
- 	
+
     <!-- Preloader -->
     <div class="preloader"></div>
- 	
+
     <!-- Main Header / Header Style Two-->
     <header class="main-header header-style-two">
         <!-- Header Top -->
@@ -40,7 +39,7 @@
                     	<li>World’s Leading Industrial Solution Provider</li>
                     </ul>
                 </div>
-                
+
                 <!--Top Right-->
             	<div class="top-right pull-right">
                 	<ul class="links-nav clearfix">
@@ -51,30 +50,30 @@
             </div>
         </div>
         <!-- Header Top End -->
-        
+
     	<!--Header-Upper-->
         <div class="header-upper">
         	<div class="auto-container">
             	<div class="clearfix">
-                	
+
                 	<div class="pull-left logo-outer">
                     	<div class="logo"><a href="index-2.html"><img src="images/logo.png" alt="" title=""></a></div>
                     </div>
-                    
+
                     <div class="pull-right upper-right clearfix">
-                    	
+
                         <div class="nav-outer clearfix">
                             <!-- Main Menu -->
                             <nav class="main-menu">
                                 <div class="navbar-header">
-                                    <!-- Toggle Button -->    	
+                                    <!-- Toggle Button -->
                                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                     </button>
                                 </div>
-                                
+
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
                                         <li class="dropdown"><a href="#">Home</a>
@@ -93,47 +92,47 @@
                                         </li>
                                         <li class="dropdown"><a href="#">About</a>
                                             <ul>
-                                                <li><a href="about-us.html">About Us</a></li>
-                                                <li><a href="team.html">Our Team</a></li>
+                                                <li><a href="about-us.php">About Us</a></li>
+                                                <li><a href="team.php">Our Team</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Services</a>
                                             <ul>
-                                                <li><a href="services.html">Our Services</a></li>
-                                                <li><a href="services-single.html">Agricultural Processing</a></li>
-                                                <li><a href="services-single.html">Chemical Research</a></li>
-                                                <li><a href="services-single.html">Material Engineering</a></li>
-                                                <li><a href="services-single.html">Mechanical Engineering</a></li>
-                                                <li><a href="services-single.html">Petroleum and Gas</a></li>
-                                                <li><a href="services-single.html">Power and Energy</a></li>
+                                                <li><a href="services.php">Our Services</a></li>
+                                                <li><a href="services-single.php">Agricultural Processing</a></li>
+                                                <li><a href="services-single.php">Chemical Research</a></li>
+                                                <li><a href="services-single.php">Material Engineering</a></li>
+                                                <li><a href="services-single.php">Mechanical Engineering</a></li>
+                                                <li><a href="services-single.php">Petroleum and Gas</a></li>
+                                                <li><a href="services-single.php">Power and Energy</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Project</a>
                                             <ul>
                                                 <li><a href="project.html">Project</a></li>
-                                                <li><a href="project-single.html">Project Single</a></li>
+                                                <li><a href="project-single.php">Project Single</a></li>
                                             </ul>
                                         </li>
                                         <li class="current dropdown"><a href="#">Shop</a>
                                             <ul>
                                                 <li><a href="shop.html">Our Shop</a></li>
-                                                <li><a href="shop-single.html">Shop Single</a></li>
+                                                <li><a href="shop-single.php">Shop Single</a></li>
                                                 <li><a href="shopping-cart.html">Shopping Cart</a></li>
                                                 <li><a href="checkout.html">Checkout</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Blog</a>
                                             <ul>
-                                                <li><a href="blog-grid.html">Our Blog</a></li>
-                                                <li><a href="blog-single.html">Blog Detail</a></li>
+                                                <li><a href="blog-grid.php">Our Blog</a></li>
+                                                <li><a href="blog-single.php">Blog Detail</a></li>
                                                 <li><a href="error-page.html">Error Page</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="contact.php">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </nav><!-- Main Menu End-->
-                            
+
                             <!--Quote Button-->
                             <div class="btn-outer">
                             	<!--Search Box-->
@@ -156,15 +155,15 @@
                                 </div>
 
                             </div>
-                            
+
                         </div>
-                        
+
                     </div>
-                    
+
                 </div>
             </div>
         </div>
-        
+
         <!--Sticky Header-->
         <div class="sticky-header">
         	<div class="auto-container clearfix">
@@ -172,20 +171,20 @@
             	<div class="logo pull-left">
                 	<a href="index-2.html" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
                 </div>
-                
+
                 <!--Right Col-->
                 <div class="right-col pull-right">
                 	<!-- Main Menu -->
                     <nav class="main-menu">
                         <div class="navbar-header">
-                            <!-- Toggle Button -->    	
+                            <!-- Toggle Button -->
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             </button>
                         </div>
-                        
+
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
                                 <li class="dropdown"><a href="#">Home</a>
@@ -204,326 +203,367 @@
                                 </li>
                                 <li class="dropdown"><a href="#">About</a>
                                 	<ul>
-                                        <li><a href="about-us.html">About Us</a></li>
-                                        <li><a href="team.html">Our Team</a></li>
+                                        <li><a href="about-us.php">About Us</a></li>
+                                        <li><a href="team.php">Our Team</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Services</a>
                                     <ul>
-                                        <li><a href="services.html">Our Services</a></li>
-                                        <li><a href="services-single.html">Agricultural Processing</a></li>
-                                        <li><a href="services-single.html">Chemical Research</a></li>
-                                        <li><a href="services-single.html">Material Engineering</a></li>
-                                        <li><a href="services-single.html">Mechanical Engineering</a></li>
-                                        <li><a href="services-single.html">Petroleum and Gas</a></li>
-                                        <li><a href="services-single.html">Power and Energy</a></li>
+                                        <li><a href="services.php">Our Services</a></li>
+                                        <li><a href="services-single.php">Agricultural Processing</a></li>
+                                        <li><a href="services-single.php">Chemical Research</a></li>
+                                        <li><a href="services-single.php">Material Engineering</a></li>
+                                        <li><a href="services-single.php">Mechanical Engineering</a></li>
+                                        <li><a href="services-single.php">Petroleum and Gas</a></li>
+                                        <li><a href="services-single.php">Power and Energy</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Project</a>
                                     <ul>
                                     	<li><a href="project.html">Project</a></li>
-                                        <li><a href="project-single.html">Project Single</a></li>
+                                        <li><a href="project-single.php">Project Single</a></li>
                                     </ul>
                                 </li>
                                 <li class="current dropdown"><a href="#">Shop</a>
                                     <ul>
                                         <li><a href="shop.html">Our Shop</a></li>
-                                        <li><a href="shop-single.html">Shop Single</a></li>
+                                        <li><a href="shop-single.php">Shop Single</a></li>
                                         <li><a href="shopping-cart.html">Shopping Cart</a></li>
                                         <li><a href="checkout.html">Checkout</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Blog</a>
                                     <ul>
-                                        <li><a href="blog-grid.html">Our Blog</a></li>
-                                        <li><a href="blog-single.html">Blog Detail</a></li>
+                                        <li><a href="blog-grid.php">Our Blog</a></li>
+                                        <li><a href="blog-single.php">Blog Detail</a></li>
                                         <li><a href="error-page.html">Error Page</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->
                 </div>
-                
+
             </div>
         </div>
         <!--End Sticky Header-->
-    
+
     </header>
     <!--End Main Header -->
-    
+
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/5.jpg);">
     	<div class="auto-container">
         	<div class="row clearfix">
             	<!--Title -->
-            	<div class="title-column col-md-6 col-sm-6 col-xs-12">
-                	<h1>Shop Detail</h1>
+            	<div class="title-column col-md-6 col-sm-12 col-xs-12">
+                	<h1>Shop</h1>
                 </div>
                 <!--Bread Crumb -->
-                <div class="breadcrumb-column col-md-6 col-sm-6 col-xs-12">
+                <div class="breadcrumb-column col-md-6 col-sm-12 col-xs-12">
                     <ul class="bread-crumb clearfix">
                         <li><a href="index-2.html">Home</a></li>
-                        <li class="active">Shop Detail</li>
+                        <li class="active">Shop</li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
     <!--End Page Title-->
-    
+
     <div class="sidebar-page-container shop-container">
     	<div class="auto-container">
         	<div class="row clearfix">
-            	
-                <!--Content Side -->
+            	<!--Content Side-->
                 <div class="content-side pull-right col-lg-9 col-md-9 col-sm-12 col-xs-12">
-                	<div class="shop-single">
-                    	<div class="product-details">
-                        	
-                            <!--Basic Details-->
-                            <div class="basic-details">
-                                <div class="row clearfix">
-                                    <div class="image-column col-md-6 col-sm-6 col-xs-12">
-                                        <figure class="image-box"><a href="images/resource/products/10.png" class="lightbox-image" title="Image Caption Here"><img src="images/resource/products/10.png" alt=""></a></figure>
+                	<div class="shop-section">
+
+                        <!--Sort By-->
+                        <div class="items-sorting">
+                        	<div class="row clearfix">
+                                <div class="results-column col-md-6 col-sm-6 col-xs-12">
+                                    <h4> Showing 1–9 of 12 results</h4>
+                                </div>
+                                <div class="select-column pull-right col-md-4 col-sm-4 col-xs-12">
+                                    <div class="form-group">
+                                        <select name="sort-by">
+                                            <option>Default Sorting</option>
+                                            <option>By Order</option>
+                                            <option>By Price</option>
+                                        </select>
                                     </div>
-                                    <div class="info-column col-md-6 col-sm-6 col-xs-12">
-                                        <div class="details-header">
-                                            <h4>Safety Gears</h4>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Shop Items-->
+                        <div class="shop-items">
+                        	<div class="row clearfix">
+
+                                <!--Shop Item-->
+                            	<div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
+                                	<div class="inner-box">
+                                    	<div class="image-box">
+                                        	<a href="shop-single.php"><img src="images/resource/products/1.png" alt="" /></a>
+                                            <div class="overlay-box">
+                                            	<div class="item-options clearfix">
+                                                    <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
+                                                    <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="lower-box">
+                                        	<h4><a href="shop-single.php">Construction Helmet</a></h4>
+                                            <div class="price">$ 24.00</div>
+                                            <!--Rating-->
                                             <div class="rating">
                                             	<span class="fa fa-star"></span>
                                                 <span class="fa fa-star"></span>
                                                 <span class="fa fa-star"></span>
                                                 <span class="fa fa-star"></span>
                                                 <span class="fa fa-star-o"></span>
-                                                <span class="reviews">(2 Customer Reviews)</span>
-                                            </div>
-                                            <div class="item-price">$215.00</div>
-                                        </div>
-
-                                        <div class="text">
-                                            <p>Monetization bootstrapping seed round beta metrics creative return on investment entrepreneur early adopters social proof android seed money launch party. Ramen bandwidth partnership gamification client MVP entrepreneur creative paradigm shift alpha. Product management infrastructure focus stealth vesting period startup ownership.</p>
-                                        </div>
-
-                                        <div class="other-options clearfix">
-                                            <div class="item-quantity"><input class="quantity-spinner" type="text" value="2" name="quantity"></div>
-                                            <button type="button" class="theme-btn btn-style-two add-to-cart"><span class="cart-icon flaticon-shopping-cart"></span> &nbsp; Add To Cart</button>
-                                            <a href="#" class="add-fav"><span class="flaticon-heart"></span></a>
-                                        </div>
-
-                                        <!--Item Meta-->
-                                        <ul class="item-meta">
-                                            <li><strong>Categories:</strong> <a href="#">Accessories</a> , <a href="#">Safety Gears</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <!--Basic Details-->
-                            
-                            <!--Product Info Tabs-->
-                            <div class="product-info-tabs">
-
-                                <!--Product Tabs-->
-                                <div class="tabs-box product-tabs" id="product-tabs">
-
-                                    <!--Tab Btns-->
-                                    <ul class="tab-buttons clearfix">
-                                        <li class="tab-btn active-btn" data-tab="#prod-description">Description</li>
-                                        <li class="tab-btn" data-tab="#prod-reviews">Reviews (3)</li>
-                                    </ul>
-
-                                    <!--Tabs Container-->
-                                    <div class="tabs-content">
-
-                                        <!--Tab / Active Tab-->
-                                        <div class="tab active-tab" id="prod-description">
-                                            <div class="content">
-                                                <p>Influencer vesting period success branding social media technology prototype paradigm shift rockstar. Release analytics series financing termsheet infographic. Launch party hypotheses stealth business model canvas ramen seed round founders venture business to business consumer.</p>
-                                            </div>
-                                        </div>
-
-                                        <!--Tab-->
-                                        <div class="tab" id="prod-reviews">
-                                            <h3>3 Reviews Found</h3>
-
-                                            <!--Reviews Container-->
-                                            <div class="reviews-container">
-
-                                                <!--Reviews-->
-                                                <article class="review-box clearfix">
-                                                    <figure class="rev-thumb"><img src="images/resource/author-1.png" alt=""></figure>
-                                                    <div class="rev-content">
-                                                        <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star-o"></span></div>
-                                                        <div class="rev-info">Admin – April 03, 2016: </div>
-                                                        <div class="rev-text"><p>Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis</p></div>
-                                                    </div>
-                                                </article>
-
-                                                <article class="review-box clearfix">
-                                                    <figure class="rev-thumb"><img src="images/resource/author-2.png" alt=""></figure>
-                                                    <div class="rev-content">
-                                                        <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star-o"></span> <span class="fa fa-star-o"></span></div>
-                                                        <div class="rev-info">Ahsan – April 01, 2016: </div>
-                                                        <div class="rev-text"><p>Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis</p></div>
-                                                    </div>
-                                                </article>
-
-                                                <article class="review-box clearfix">
-                                                    <figure class="rev-thumb"><img src="images/resource/author-3.png" alt=""></figure>
-                                                    <div class="rev-content">
-                                                        <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
-                                                        <div class="rev-info">Sara – March 31, 2016: </div>
-                                                        <div class="rev-text"><p>Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis</p></div>
-                                                    </div>
-                                                </article>
-
-                                            </div>
-
-                                            <!--Add Review-->
-                                            <div class="add-review">
-                                                <h3>Add a Review</h3>
-
-                                                <form method="post" action="http://wp.hostlin.com/nijmegan/shop-single.html">
-                                                    <div class="row clearfix">
-                                                        <div class="form-group col-md-6 col-sm-12 col-xs-12">
-                                                            <label>Name *</label>
-                                                            <input type="text" name="name" value="" placeholder="" required>
-                                                        </div>
-                                                        <div class="form-group col-md-6 col-sm-12 col-xs-12">
-                                                            <label>Email *</label>
-                                                            <input type="email" name="email" value="" placeholder="" required>
-                                                        </div>
-                                                        <div class="form-group col-md-6 col-sm-12 col-xs-12">
-                                                            <label>Website *</label>
-                                                            <input type="text" name="website" value="" placeholder="" required>
-                                                        </div>
-                                                        <div class="form-group col-md-6 col-sm-12 col-xs-12">
-                                                            <label>Rating </label>
-                                                            <div class="rating">
-                                                                <a href="#" class="rate-box" title="1 Out of 5"><span class="fa fa-star"></span></a>
-                                                                <a href="#" class="rate-box" title="2 Out of 5"><span class="fa fa-star"></span> <span class="fa fa-star"></span></a>
-                                                                <a href="#" class="rate-box" title="3 Out of 5"><span class="fa fa-star"></span> <span class="fa fa-star"> </span> <span class="fa fa-star"></span></a>
-                                                                <a href="#" class="rate-box" title="4 Out of 5"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></a>
-                                                                <a href="#" class="rate-box" title="5 Out of 5"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                                                            <label>Your Review</label>
-                                                            <textarea name="review-message"></textarea>
-                                                        </div>
-                                                        <div class="form-group text-right col-md-12 col-sm-12 col-xs-12">
-                                                            <button type="button" class="theme-btn btn-style-one">Add Review</button>
-                                                        </div>
-                                                    </div>
-                                                </form>
-                                            </div>
-
-										</div>
-
-                                    </div>
-                                </div>
-
-                            </div>
-                            
-                            <!--Related Posts-->
-                            <div class="related-posts">
-                            	<h2>RELATED PRODUCTS</h2>
-                                
-                                <div class="row clearfix">
-                                	<!--Shop Item-->
-                                    <div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
-                                        <div class="inner-box">
-                                            <div class="image-box">
-                                                <a href="shop-single.html"><img src="images/resource/products/1.png" alt="" /></a>
-                                                <div class="overlay-box">
-                                                    <div class="item-options clearfix">
-                                                        <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
-                                                        <a href="shop-single.html" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="lower-box">
-                                                <h4><a href="shop-single.html">Construction Helmet</a></h4>
-                                                <div class="price">$ 24.00</div>
-                                                <!--Rating-->
-                                                <div class="rating">
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star-o"></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <!--Shop Item-->
-                                    <div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
-                                        <div class="inner-box">
-                                            <div class="image-box">
-                                                <a href="shop-single.html"><img src="images/resource/products/2.png" alt="" /></a>
-                                                <div class="overlay-box">
-                                                    <div class="item-options clearfix">
-                                                        <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
-                                                        <a href="shop-single.html" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="lower-box">
-                                                <h4><a href="shop-single.html">Safety Gears</a></h4>
-                                                <div class="price">$ 215.00</div>
-                                                <!--Rating-->
-                                                <div class="rating">
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star-o"></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <!--Shop Item-->
-                                    <div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
-                                        <div class="inner-box">
-                                            <div class="image-box">
-                                                <a href="shop-single.html"><img src="images/resource/products/3.png" alt="" /></a>
-                                                <div class="overlay-box">
-                                                    <div class="item-options clearfix">
-                                                        <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
-                                                        <a href="shop-single.html" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="lower-box">
-                                                <h4><a href="shop-single.html">Protective Wear</a></h4>
-                                                <div class="price">$ 32.00</div>
-                                                <!--Rating-->
-                                                <div class="rating">
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star"></span>
-                                                    <span class="fa fa-star-o"></span>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                
+
+                                <!--Shop Item-->
+                            	<div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
+                                	<div class="inner-box">
+                                    	<div class="image-box">
+                                        	<a href="shop-single.php"><img src="images/resource/products/2.png" alt="" /></a>
+                                            <div class="overlay-box">
+                                            	<div class="item-options clearfix">
+                                                    <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
+                                                    <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="lower-box">
+                                        	<h4><a href="shop-single.php">Safety Gears</a></h4>
+                                            <div class="price">$ 215.00</div>
+                                            <!--Rating-->
+                                            <div class="rating">
+                                            	<span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star-o"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--Shop Item-->
+                            	<div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
+                                	<div class="inner-box">
+                                    	<div class="image-box">
+                                        	<a href="shop-single.php"><img src="images/resource/products/3.png" alt="" /></a>
+                                            <div class="overlay-box">
+                                            	<div class="item-options clearfix">
+                                                    <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
+                                                    <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="lower-box">
+                                        	<h4><a href="shop-single.php">Protective Wear</a></h4>
+                                            <div class="price">$ 32.00</div>
+                                            <!--Rating-->
+                                            <div class="rating">
+                                            	<span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star-o"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--Shop Item-->
+                            	<div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
+                                	<div class="inner-box">
+                                    	<div class="image-box">
+                                        	<a href="shop-single.php"><img src="images/resource/products/4.png" alt="" /></a>
+                                            <div class="overlay-box">
+                                            	<div class="item-options clearfix">
+                                                    <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
+                                                    <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="lower-box">
+                                        	<h4><a href="shop-single.php">Safety Shoes</a></h4>
+                                            <div class="price">$ 128.00</div>
+                                            <!--Rating-->
+                                            <div class="rating">
+                                            	<span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star-o"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--Shop Item-->
+                            	<div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
+                                	<div class="inner-box">
+                                    	<div class="image-box">
+                                        	<a href="shop-single.php"><img src="images/resource/products/5.png" alt="" /></a>
+                                            <div class="overlay-box">
+                                            	<div class="item-options clearfix">
+                                                    <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
+                                                    <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="lower-box">
+                                        	<h4><a href="shop-single.php">Safety Mask</a></h4>
+                                            <div class="price">$ 84.00</div>
+                                            <!--Rating-->
+                                            <div class="rating">
+                                            	<span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star-o"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--Shop Item-->
+                            	<div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
+                                	<div class="inner-box">
+                                    	<div class="image-box">
+                                        	<a href="shop-single.php"><img src="images/resource/products/6.png" alt="" /></a>
+                                            <div class="overlay-box">
+                                            	<div class="item-options clearfix">
+                                                    <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
+                                                    <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="lower-box">
+                                        	<h4><a href="shop-single.php">Gloves</a></h4>
+                                            <div class="price">$ 18.00</div>
+                                            <!--Rating-->
+                                            <div class="rating">
+                                            	<span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star-o"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--Shop Item-->
+                            	<div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
+                                	<div class="inner-box">
+                                    	<div class="image-box">
+                                        	<a href="shop-single.php"><img src="images/resource/products/7.png" alt="" /></a>
+                                            <div class="overlay-box">
+                                            	<div class="item-options clearfix">
+                                                    <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
+                                                    <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="lower-box">
+                                        	<h4><a href="shop-single.php">Ear Muffs</a></h4>
+                                            <div class="price">$ 56.00</div>
+                                            <!--Rating-->
+                                            <div class="rating">
+                                            	<span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star-o"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--Shop Item-->
+                            	<div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
+                                	<div class="inner-box">
+                                    	<div class="image-box">
+                                        	<a href="shop-single.php"><img src="images/resource/products/8.png" alt="" /></a>
+                                            <div class="overlay-box">
+                                            	<div class="item-options clearfix">
+                                                    <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
+                                                    <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="lower-box">
+                                        	<h4><a href="shop-single.php">Safety Equipments</a></h4>
+                                            <div class="price">$ 245.00</div>
+                                            <!--Rating-->
+                                            <div class="rating">
+                                            	<span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star-o"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--Shop Item-->
+                            	<div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
+                                	<div class="inner-box">
+                                    	<div class="image-box">
+                                        	<a href="shop-single.php"><img src="images/resource/products/9.png" alt="" /></a>
+                                            <div class="overlay-box">
+                                            	<div class="item-options clearfix">
+                                                    <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
+                                                    <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="lower-box">
+                                        	<h4><a href="shop-single.php">Safety Mask</a></h4>
+                                            <div class="price">$ 15.00</div>
+                                            <!--Rating-->
+                                            <div class="rating">
+                                            	<span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star"></span>
+                                                <span class="fa fa-star-o"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
-                            
                         </div>
+
+                        <!--styled pagination-->
+                        <div class="styled-pagination text-center">
+                            <ul>
+                                <li><a href="#"><span class="fa fa-angle-double-left"></span></a></li>
+                                <li><a href="#" class="active">1</a></li>
+                                <li><a href="#">2</a></li>
+                                <li><a href="#"><span class="fa fa-angle-double-right"></span></a></li>
+                            </ul>
+                        </div>
+
                     </div>
                 </div>
-                
+
                 <!--Sidebar Side-->
             	<div class="sidebar-side pull-left col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 	<div class="sidebar shop-sidebar">
-                    	
+
                         <!--Search Box-->
                         <div class="sidebar-widget search-box">
                         	<div class="sidebar-title">
@@ -536,7 +576,7 @@
                                 </div>
                             </form>
                         </div>
-                        
+
                         <!--Category Widget-->
                     	<div class="sidebar-widget category-widget">
                         	<div class="sidebar-title">
@@ -551,7 +591,7 @@
                                 <li><a href="#">Gloves (3)</a></li>
                             </ul>
                         </div>
-                        
+
                         <!-- Price Filters -->
                         <div class="sidebar-widget price-filters rangeslider-widget">
                             <div class="sidebar-title"><h2>FILTER BY PRICE</h2></div>
@@ -567,7 +607,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <!--Popular Tags-->
                         <div class="sidebar-widget popular-tags">
                         	<div class="sidebar-title">
@@ -581,22 +621,22 @@
                             <a href="#">Shoes</a>
                             <a href="#">Industry Equipments</a>
                         </div>
-                        
+
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </div>
-    
+
     <!--Main Footer-->
     <footer class="main-footer">
     	<div class="auto-container">
-        	
+
             <!--Widgets Section-->
             <div class="widgets-section">
             	<div class="row clearfix">
-                
+
                 	<!--Big Column-->
                 	<div class="big-column col-md-6 col-sm-12 col-xs-12">
                     	<div class="row clearfix">
@@ -621,7 +661,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
                             	<div class="footer-widget links-widget">
@@ -637,11 +677,11 @@
 
 						</div>
                     </div>
-                    
+
                     <!--Big Column-->
                 	<div class="big-column col-md-6 col-sm-12 col-xs-12">
                     	<div class="row clearfix">
-                        
+
 							<!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
 								<div class="footer-widget twitter-widget">
@@ -660,12 +700,12 @@
                                     </div>
                                 </div>
 							</div>
-                            
+
                             <!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
                                 <div class="footer-widget carousel-widget">
                                     <h2>Gallery</h2>
-                                    
+
                                     <div class="single-item-carousel owl-carousel owl-theme">
                                         <div class="slide">
                                             <img src="images/resource/footer-slide.jpg" alt="" />
@@ -677,26 +717,26 @@
                                             <img src="images/resource/footer-slide.jpg" alt="" />
                                         </div>
                                     </div>
-                                    
+
                                 </div>
 							</div>
-                            
+
 						</div>
                     </div>
-                    
+
                 </div>
             </div>
-                        
+
     	</div>
-        
+
         <!--Footer Bottom-->
             <div class="footer-bottom">
                 <div class="auto-container"><div class="copyright">Copyright &copy; 2017 Industry. All Rights Reserved</div></div>
             </div>
-        
+
     </footer>
     <!--End Main Footer-->
-    
+
 </div>
 <!--End pagewrapper-->
 
@@ -704,7 +744,7 @@
 <div class="scroll-to-top scroll-to-target" data-target=".main-header"><span class="icon fa fa-long-arrow-up"></span></div>
 
 
-<script src="js/jquery.js"></script> 
+<script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/revolution.min.js"></script>
 <script src="js/jquery.fancybox.pack.js"></script>
@@ -713,9 +753,8 @@
 <script src="js/wow.js"></script>
 <script src="js/appear.js"></script>
 <script src="js/nouislider.js"></script>
-<script src="js/jquery.bootstrap-touchspin.js"></script>
 <script src="js/script.js"></script>
 </body>
 
-<!-- Mirrored from wp.hostlin.com/nijmegan/shop-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:58 GMT -->
+<!-- Mirrored from wp.hostlin.com/nijmegan/shop.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:51 GMT -->
 </html>

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 
-<!-- Mirrored from wp.hostlin.com/nijmegan/blog-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:29:06 GMT -->
+<!-- Mirrored from wp.hostlin.com/nijmegan/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:27 GMT -->
 <head>
 <meta charset="utf-8">
-<title>Nijmegan - Factory and Industrial HTML5 Template | Blog Single</title>
+<title>Nijmegan - Factory and Industrial HTML5 Template | Services</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/revolution-slider.css" rel="stylesheet">
@@ -22,10 +22,10 @@
 
 <body>
 <div class="page-wrapper">
- 	
+
     <!-- Preloader -->
     <div class="preloader"></div>
- 	
+
     <!-- Main Header / Header Style Two-->
     <header class="main-header header-style-two">
         <!-- Header Top -->
@@ -37,7 +37,7 @@
                     	<li>World’s Leading Industrial Solution Provider</li>
                     </ul>
                 </div>
-                
+
                 <!--Top Right-->
             	<div class="top-right pull-right">
                 	<ul class="links-nav clearfix">
@@ -46,32 +46,31 @@
                     </ul>
                 </div>
             </div>
-        </div>
-        <!-- Header Top End -->
-        
+        </div><!-- Header Top End -->
+
     	<!--Header-Upper-->
         <div class="header-upper">
         	<div class="auto-container">
             	<div class="clearfix">
-                	
+
                 	<div class="pull-left logo-outer">
                     	<div class="logo"><a href="index-2.html"><img src="images/logo.png" alt="" title=""></a></div>
                     </div>
-                    
+
                     <div class="pull-right upper-right clearfix">
-                    	
+
                         <div class="nav-outer clearfix">
                             <!-- Main Menu -->
                             <nav class="main-menu">
                                 <div class="navbar-header">
-                                    <!-- Toggle Button -->    	
+                                    <!-- Toggle Button -->
                                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                     </button>
                                 </div>
-                                
+
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
                                         <li class="dropdown"><a href="#">Home</a>
@@ -90,47 +89,47 @@
                                         </li>
                                         <li class="dropdown"><a href="#">About</a>
                                             <ul>
-                                                <li><a href="about-us.html">About Us</a></li>
-                                                <li><a href="team.html">Our Team</a></li>
+                                                <li><a href="about-us.php">About Us</a></li>
+                                                <li><a href="team.php">Our Team</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="#">Services</a>
+                                        <li class="current dropdown"><a href="#">Services</a>
                                             <ul>
                                                 <li><a href="services.html">Our Services</a></li>
-                                                <li><a href="services-single.html">Agricultural Processing</a></li>
-                                                <li><a href="services-single.html">Chemical Research</a></li>
-                                                <li><a href="services-single.html">Material Engineering</a></li>
-                                                <li><a href="services-single.html">Mechanical Engineering</a></li>
-                                                <li><a href="services-single.html">Petroleum and Gas</a></li>
-                                                <li><a href="services-single.html">Power and Energy</a></li>
+                                                <li><a href="services-single.php">Agricultural Processing</a></li>
+                                                <li><a href="services-single.php">Chemical Research</a></li>
+                                                <li><a href="services-single.php">Material Engineering</a></li>
+                                                <li><a href="services-single.php">Mechanical Engineering</a></li>
+                                                <li><a href="services-single.php">Petroleum and Gas</a></li>
+                                                <li><a href="services-single.php">Power and Energy</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Project</a>
                                             <ul>
                                                 <li><a href="project.html">Project</a></li>
-                                                <li><a href="project-single.html">Project Single</a></li>
+                                                <li><a href="project-single.php">Project Single</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Shop</a>
                                             <ul>
-                                                <li><a href="shop.html">Our Shop</a></li>
-                                                <li><a href="shop-single.html">Shop Single</a></li>
+                                                <li><a href="shop.php">Our Shop</a></li>
+                                                <li><a href="shop-single.php">Shop Single</a></li>
                                                 <li><a href="shopping-cart.html">Shopping Cart</a></li>
                                                 <li><a href="checkout.html">Checkout</a></li>
                                             </ul>
                                         </li>
-                                        <li class="current dropdown"><a href="#">Blog</a>
+                                        <li class="dropdown"><a href="#">Blog</a>
                                             <ul>
-                                                <li><a href="blog-grid.html">Our Blog</a></li>
-                                                <li><a href="blog-single.html">Blog Detail</a></li>
+                                                <li><a href="blog-grid.php">Our Blog</a></li>
+                                                <li><a href="blog-single.php">Blog Detail</a></li>
                                                 <li><a href="error-page.html">Error Page</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="contact.php">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </nav><!-- Main Menu End-->
-                            
+
                             <!--Quote Button-->
                             <div class="btn-outer">
                             	<!--Search Box-->
@@ -153,15 +152,15 @@
                                 </div>
 
                             </div>
-                            
+
                         </div>
-                        
+
                     </div>
-                    
+
                 </div>
             </div>
         </div>
-        
+
         <!--Sticky Header-->
         <div class="sticky-header">
         	<div class="auto-container clearfix">
@@ -169,20 +168,20 @@
             	<div class="logo pull-left">
                 	<a href="index-2.html" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
                 </div>
-                
+
                 <!--Right Col-->
                 <div class="right-col pull-right">
                 	<!-- Main Menu -->
                     <nav class="main-menu">
                         <div class="navbar-header">
-                            <!-- Toggle Button -->    	
+                            <!-- Toggle Button -->
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             </button>
                         </div>
-                        
+
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
                                 <li class="dropdown"><a href="#">Home</a>
@@ -201,301 +200,368 @@
                                 </li>
                                 <li class="dropdown"><a href="#">About</a>
                                 	<ul>
-                                        <li><a href="about-us.html">About Us</a></li>
-                                        <li><a href="team.html">Our Team</a></li>
+                                        <li><a href="about-us.php">About Us</a></li>
+                                        <li><a href="team.php">Our Team</a></li>
                                     </ul>
                                 </li>
-                                <li class="dropdown"><a href="#">Services</a>
+                                <li class="current dropdown"><a href="#">Services</a>
                                     <ul>
                                         <li><a href="services.html">Our Services</a></li>
-                                        <li><a href="services-single.html">Agricultural Processing</a></li>
-                                        <li><a href="services-single.html">Chemical Research</a></li>
-                                        <li><a href="services-single.html">Material Engineering</a></li>
-                                        <li><a href="services-single.html">Mechanical Engineering</a></li>
-                                        <li><a href="services-single.html">Petroleum and Gas</a></li>
-                                        <li><a href="services-single.html">Power and Energy</a></li>
+                                        <li><a href="services-single.php">Agricultural Processing</a></li>
+                                        <li><a href="services-single.php">Chemical Research</a></li>
+                                        <li><a href="services-single.php">Material Engineering</a></li>
+                                        <li><a href="services-single.php">Mechanical Engineering</a></li>
+                                        <li><a href="services-single.php">Petroleum and Gas</a></li>
+                                        <li><a href="services-single.php">Power and Energy</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Project</a>
                                     <ul>
                                     	<li><a href="project.html">Project</a></li>
-                                        <li><a href="project-single.html">Project Single</a></li>
+                                        <li><a href="project-single.php">Project Single</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Shop</a>
                                     <ul>
-                                        <li><a href="shop.html">Our Shop</a></li>
-                                        <li><a href="shop-single.html">Shop Single</a></li>
+                                        <li><a href="shop.php">Our Shop</a></li>
+                                        <li><a href="shop-single.php">Shop Single</a></li>
                                         <li><a href="shopping-cart.html">Shopping Cart</a></li>
                                         <li><a href="checkout.html">Checkout</a></li>
                                     </ul>
                                 </li>
-                                <li class="current dropdown"><a href="#">Blog</a>
+                                <li class="dropdown"><a href="#">Blog</a>
                                     <ul>
-                                        <li><a href="blog-grid.html">Our Blog</a></li>
-                                        <li><a href="blog-single.html">Blog Detail</a></li>
+                                        <li><a href="blog-grid.php">Our Blog</a></li>
+                                        <li><a href="blog-single.php">Blog Detail</a></li>
                                         <li><a href="error-page.html">Error Page</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->
                 </div>
-                
+
             </div>
-        </div>
-        <!--End Sticky Header-->
-    
+        </div><!--End Sticky Header-->
+
     </header>
     <!--End Main Header -->
-    
+
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/5.jpg);">
     	<div class="auto-container">
         	<div class="row clearfix">
             	<!--Title -->
             	<div class="title-column col-md-6 col-sm-6 col-xs-12">
-                	<h1>Blog Detail</h1>
+                	<h1>Services</h1>
                 </div>
                 <!--Bread Crumb -->
                 <div class="breadcrumb-column col-md-6 col-sm-6 col-xs-12">
                     <ul class="bread-crumb clearfix">
                         <li><a href="index-2.html">Home</a></li>
-                        <li class="active">Blog Detail</li>
+                        <li class="active">Services</li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
     <!--End Page Title-->
-    
-    <!--Sidebar Page Container-->
-    <section class="sidebar-page-container">
-    	<div class="auto-container">
-        	<div class="row">
-            	
-                <!--Content Side-->
-                <div class="content-side pull-right col-lg-9 col-md-8 col-sm-12 col-xs-12">
-                	<div class="blog-section">
-                    	<div class="news-block-detail">
-                        	<div class="inner-box">
-                            	<figure class="image">
-                                	<img src="images/resource/news-13.jpg" alt="" />
-                                </figure>
-                                <!--Post Info Box-->
-                                <div class="post-info-box clearfix">
-                                    <div class="pull-left">
-                                        <div class="date">By <span class="dark-text">Johny Britt</span> <span>Nov 11, 2016</span></div>
-                                    </div>
-                                    <div class="pull-right">
-                                        <div class="total-comments">05 Comments</div>
-                                    </div>
-                                </div>
-                                
-                                <!--lower content-->
-                                <div class="lower-content">
-                                	<h3>Material Suppliers from North America</h3>
-                                    <div class="text">
-                                    	<p>Product management twitter rockstar mass market value proposition pivot venture partnership social proof hypotheses innovator founders. Paradigm shift deployment hackathon research & development business plan infrastructure first mover advantage technology agile development android iPad. Learning curve rockstar business model canvas client product management leverage iPhone advisor crowdsource creative business-to-consumer. Investor buyer entrepreneur startup pivot technology research & development stock virality disruptive rockstar launch party customer. Technology early adopters entrepreneur social media. Bandwidth social proof user experience value proposition virality freemium business model canvas ownership supply chain first mover advantage scrum project </p>
-                                        <blockquote>Angel investor metrics prototype responsive web design low hanging fruit. Funding accelerator equity founders learning curve influencer venture.Startup assets lean startup hypotheses backing leverage return on investment responsive web design.<span class="author">- David Beckhom</span></blockquote>
-                                        <p>Partner network hackathon pitch branding founders facebook alpha network effects early adopters. Responsive web design partnership user experience angel investor product management android equity advisor channels. Accelerator low hanging fruit bandwidth release ecosystem gamification buyer series A financing virality responsive web design first mover advantage buzz entrepreneur return on investment. Stealth hypotheses traction creative research & development equity supply chain pivot network effects A/B testing crowdsource series A financing. </p>
-                                    </div>
-                                    <!--New Posts-->
-                                    <div class="new-posts">
-                                    	<div class="clearfix">
-                                        	<div class="pull-left">
-                                            	<a href="#"><span class="icon fa fa-long-arrow-left"></span>&nbsp; PREVIOUS POST</a>
-                                            </div>
-                                            <div class="pull-right">
-                                            	<a href="#">next POST &nbsp;<span class="icon fa fa-long-arrow-right"></span></a>
-                                            </div>
-                                            <!--social links two-->
-                                            <div class="social-links-two">
-                                                <a href="#"><span class="fa fa-facebook-f"></span></a>
-                                                <a href="#"><span class="fa fa-twitter"></span></a>
-                                                <a href="#"><span class="fa fa-google-plus"></span></a>
-                                                <a href="#"><span class="fa fa-pinterest-p"></span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                            </div>
-                        </div>
-                        
-                        <!--Comments Area-->
-                        <div class="comments-area">
-                        	<div class="group-title"><h2>COMMENTS (03)</h2></div>
-                            
-                            <div class="comment-box">
-                            	<!--Comment-->
-                                <div class="comment">
-                                    <div class="comment-inner">
-                                        <div class="author-thumb"><img src="images/resource/author-1.png" alt=""></div>
-                                        <!--comment-content-->
-                                        <div class="comment-content">
-                                            <div class="comment-header clearfix">
-                                                <h4>Benjamin &nbsp; | &nbsp; <a class="reply" href="#">Reply</a> </h4>
-                                            </div>
-                                            <div class="text">The mad lightning no one you beat of just one drum they call him Flipper Flipper faster than light no one you see is smarter each week my friends you are sure to get a smile</div>
-                                        </div> 
-                                    </div>
-                                </div>
-                                
-                                <!--Comment-->
-                                <div class="comment">
-                                    <div class="comment-inner">
-                                        <div class="author-thumb"><img src="images/resource/author-2.png" alt=""></div>
-                                        <!--comment-content-->
-                                        <div class="comment-content">
-                                            <div class="comment-header clearfix">
-                                                <h4>Maria &nbsp; | &nbsp; <a class="reply" href="#">Reply</a> </h4>
-                                            </div>
-                                            <div class="text">The mad lightning no one you beat of just one drum they call him Flipper Flipper faster than light no one you see is smarter each week my friends you are sure to get a smile</div>
-                                        </div> 
-                                    </div>
-                                </div>
-                                
-                                <!--Reply Comment-->
-                                <div class="comment reply-comment">
-                                    <div class="comment-inner">
-                                        <div class="author-thumb"><img src="images/resource/author-3.png" alt=""></div>
-                                        <!--comment-content-->
-                                        <div class="comment-content">
-                                            <div class="comment-header clearfix">
-                                                <h4>Fredrik &nbsp; | &nbsp; <a class="reply" href="#">Reply</a> </h4>
-                                            </div>
-                                            <div class="text">The mad lightning no one you beat of just one drum they call him Flipper Flipper faster than light no one you see is smarter each week my friends you are sure to get a smile</div>
-                                        </div> 
-                                    </div>
-                                </div>
-                                
-                            </div>
-                        </div>
-                        <!--End Comments Area-->
-                        
-                        <!-- Comment Form -->
-                        <div class="comment-form">
-    
-                            <div class="group-title"><h2>LEAVE A REPLY</h2></div>
-    
-                            <!--Comment Form-->
-                            <form method="post" action="http://wp.hostlin.com/nijmegan/contact.html">
-                                <div class="row clearfix">
-                                    <div class="col-md-6 col-sm-6 col-xs-12 form-group">
-                                        <input type="text" name="username" placeholder="Name" required>
-                                    </div>
-    
-                                    <div class="col-md-6 col-sm-6 col-xs-12 form-group">
-                                        <input type="email" name="email" placeholder="Email" required>
-                                    </div>
-                                    
-                                    <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <input type="text" name="subject" placeholder="Website">
-                                    </div>
-    
-                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <textarea name="message" placeholder="Comment"></textarea>
-                                    </div>
-    
-                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group">
-                                        <button class="theme-btn btn-style-two" type="submit" name="submit-form">POST COMMENT</button>
-                                    </div>
-    
-                                </div>
-                            </form>
-    
-                        </div>
-                        <!--End Comment Form -->
-                        
-                    </div>
-                </div>
-                
-                <!--Sidebar-->
-                <div class="sidebar-side pull-left col-lg-3 col-md-4 col-sm-12 col-xs-12">
-                	<div class="sidebar">
-                    
-                    	<!--search box-->
-                    	<div class="sidebar-widget search-box">
-                            <form method="post" action="http://wp.hostlin.com/nijmegan/blog.html">
-                                <div class="form-group">
-                                    <input type="search" name="search-field" value="" placeholder="Search here..." required>
-                                    <button type="submit"><span class="icon fa fa-search"></span></button>
-                                </div>
-                            </form>
-                        </div>
-                        
-                        <!--Category Widget-->
-                    	<div class="sidebar-widget category-widget">
-                        	<div class="sidebar-title">
-                                <h2>CATEGORY</h2>
-                            </div>
-                            <ul class="list-two">
-                            	<li><a href="#">Agricultural Processing</a></li>
-                                <li><a href="#">Chemical Research</a></li>
-                                <li><a href="#">Material Engineering</a></li>
-                                <li><a href="#">Mechanical Engineering</a></li>
-                                <li><a href="#">Petroleum and Gas</a></li>
-                                <li><a href="#">Power and Energy</a></li>
-                            </ul>
-                        </div>
-                        
-                        <!--Post Widget-->
-                    	<div class="sidebar-widget popular-posts">
-                        	<div class="sidebar-title">
-                                <h2>POPULAR POSTS</h2>
-                            </div>
-                            
-                            <article class="post">
-                            	<figure class="post-thumb"><a href="blog-single.html"><img src="images/resource/post-1.jpg" alt=""></a></figure>
-                                <h4><a href="blog-single.html">Agri & Chemical Research</a></h4>
-                                <div class="post-info">By Johny Britt <span>07 Nov</span></div>
-                            </article>
 
-                            <article class="post">
-                            	<figure class="post-thumb"><a href="blog-single.html"><img src="images/resource/post-2.jpg" alt=""></a></figure>
-                                <h4><a href="blog-single.html">Agri & Chemical Research</a></h4>
-                                <div class="post-info">By Johny Britt <span>07 Nov</span></div>
-                            </article>
-                            
-                            <article class="post">
-                            	<figure class="post-thumb"><a href="blog-single.html"><img src="images/resource/post-3.jpg" alt=""></a></figure>
-                                <h4><a href="blog-single.html">Agri & Chemical Research</a></h4>
-                                <div class="post-info">By Johny Britt <span>07 Nov</span></div>
-                            </article>
-                            
-                        </div>
-                        
-                        <!--Popular Tags-->
-                        <div class="sidebar-widget popular-tags">
-                        	<div class="sidebar-title">
-                            	<h2>POPULAR TAGS</h2>
+    <!--Services Section Two-->
+    <section class="services-section-two">
+    	<div class="auto-container">
+        	<!--Sec Title Two-->
+            <div class="sec-title-two">
+            	<div class="title">Our Services</div>
+                <h2>OUR INDUSTRY TARGET</h2>
+            </div>
+            <div class="row clearfix">
+
+            	<!--Services Block Two-->
+            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<img src="images/resource/service-1.jpg" alt="" />
+                            <div class="overlay-box">
+                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
                             </div>
-                            <a href="#">Safety Gears</a>
-                            <a href="#">Helmet</a>
-                            <a href="#">Gloves</a>
-                            <a href="#">Glass</a>
-                            <a href="#">Industry</a>
-                            <a href="#">Shoes</a>
-                            <a href="#">Industry Equipments</a>
                         </div>
-                        
+                        <div class="lower-box">
+                        	<h3><a href="services-single.php">Agricultural Processing</a></h3>
+                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
+                        </div>
                     </div>
                 </div>
-                
+
+                <!--Services Block Two-->
+            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<img src="images/resource/service-2.jpg" alt="" />
+                            <div class="overlay-box">
+                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
+                            </div>
+                        </div>
+                        <div class="lower-box">
+                        	<h3><a href="services-single.php">Chemical Research</a></h3>
+                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Services Block Two-->
+            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<img src="images/resource/service-3.jpg" alt="" />
+                            <div class="overlay-box">
+                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
+                            </div>
+                        </div>
+                        <div class="lower-box">
+                        	<h3><a href="services-single.php">Material Engineering</a></h3>
+                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Services Block Two-->
+            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<img src="images/resource/service-4.jpg" alt="" />
+                            <div class="overlay-box">
+                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
+                            </div>
+                        </div>
+                        <div class="lower-box">
+                        	<h3><a href="services-single.php">Mechanical Engineering</a></h3>
+                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Services Block Two-->
+            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<img src="images/resource/service-5.jpg" alt="" />
+                            <div class="overlay-box">
+                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
+                            </div>
+                        </div>
+                        <div class="lower-box">
+                        	<h3><a href="services-single.php">Petroleum and Gas</a></h3>
+                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Services Block Two-->
+            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<img src="images/resource/service-6.jpg" alt="" />
+                            <div class="overlay-box">
+                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
+                            </div>
+                        </div>
+                        <div class="lower-box">
+                        	<h3><a href="services-single.php">Power and Energy</a></h3>
+                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="right-icon"><span class="icon flaticon-cogwheel-1"></span></div>
+    </section>
+    <!--End Services Section Two-->
+
+    <!--Fact Counter-->
+    <section class="counter-section" style="background-image:url(images/background/1.jpg)">
+    	<div class="auto-container">
+
+            <div class="fact-counter">
+                <div class="row clearfix">
+
+                    <!--Column-->
+                    <div class="column counter-column wow fadeIn col-md-3 col-sm-6 col-xs-12">
+                        <div class="inner">
+                        	<div class="icon-box"><span class="icon flaticon-people-3"></span></div>
+                            <div class="count-outer">
+                                <span class="count-text" data-speed="2000" data-stop="150">0</span>
+                            </div>
+                            <h4 class="counter-title">TEAM WORKERS</h4>
+                        </div>
+                    </div>
+
+                    <!--Column-->
+                    <div class="column counter-column wow fadeIn col-md-3 col-sm-6 col-xs-12">
+                        <div class="inner">
+                        	<div class="icon-box"><span class="icon flaticon-wrench"></span></div>
+                            <div class="count-outer">
+                                <span class="count-text" data-speed="3000" data-stop="1246">0</span>
+                            </div>
+                            <h4 class="counter-title">PROJECTS DONE</h4>
+                        </div>
+                    </div>
+
+                    <!--Column-->
+                    <div class="column counter-column wow fadeIn col-md-3 col-sm-6 col-xs-12">
+                        <div class="inner">
+                        	<div class="icon-box"><span class="icon flaticon-idea"></span></div>
+                            <div class="count-outer">
+                                <span class="count-text" data-speed="2500" data-stop="348">0</span>
+                            </div>
+                            <h4 class="counter-title">PROJECT IDEAS</h4>
+                        </div>
+                    </div>
+
+                    <!--Column-->
+                    <div class="column counter-column wow fadeIn col-md-3 col-sm-6 col-xs-12">
+                        <div class="inner">
+                        	<div class="icon-box"><span class="icon flaticon-cup"></span></div>
+                            <div class="count-outer">
+                                <span class="count-text" data-speed="2000" data-stop="112">0</span>
+                            </div>
+                            <h4 class="counter-title">AWARDS WON</h4>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!--End Fact Counter-->
+
+    <!--Default Section-->
+    <section class="default-section">
+    	<div class="auto-container">
+        	<div class="row clearfix">
+            	<!--Column-->
+            	<div class="column col-md-6 col-sm-12 col-xs-12">
+                	<!--Sec Title Three-->
+                    <div class="sec-title-three">
+                    	<div class="title">From Blog</div>
+                        <h2>LATEST NEWS</h2>
+                    </div>
+
+                    <!--News Block-->
+                    <div class="news-block wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="row clearfix">
+                        	<!--Image Column-->
+                        	<div class="image-column col-md-4 col-sm-4 col-xs-12">
+                            	<figure class="image">
+                                	<a href="blog-single.php"><img src="images/resource/news-1.jpg" alt="" /></a>
+                                </figure>
+                            </div>
+                            <!--Content Column-->
+                            <div class="content-column col-md-8 col-sm-8 col-xs-12">
+                            	<div class="inner-box">
+                            		<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
+                                    <ul class="post-meta">
+                                        <li>By <span>Adam Smith</span></li>
+                                        <li class="date">Nov 07, 2016</li>
+                                    </ul>
+                                    <div class="text">Startup equity interaction design scrum project alpha prototype management branding business.</div>
+                                    <a href="blog-single.php" class="read-more">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--News Block-->
+                    <div class="news-block wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    	<div class="row clearfix">
+                        	<!--Image Column-->
+                        	<div class="image-column col-md-4 col-sm-4 col-xs-12">
+                            	<figure class="image">
+                                	<a href="blog-single.php"><img src="images/resource/news-2.jpg" alt="" /></a>
+                                </figure>
+                            </div>
+                            <!--Content Column-->
+                            <div class="content-column col-md-8 col-sm-8 col-xs-12">
+                            	<div class="inner-box">
+                            		<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
+                                    <ul class="post-meta">
+                                        <li>By <span>Johny Brit</span></li>
+                                        <li class="date">Nov 11, 2016</li>
+                                    </ul>
+                                    <div class="text">Startup equity interaction design scrum project alpha prototype management branding business.</div>
+                                    <a href="blog-single.php" class="read-more">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!--Clients Column-->
+                <div class="clients-column col-md-6 col-sm-12 col-xs-12">
+                	<!--Sec Title Three-->
+                    <div class="sec-title-three">
+                    	<div class="title">Our Clients</div>
+                        <h2>TRUSTED PARTNERS</h2>
+                    </div>
+
+                    <div class="row clearfix">
+
+                    	<div class="inner-column col-md-4 col-sm-6 col-xs-12">
+                        	<div class="client-box">
+                            	<a href="#"><img src="images/clients/1.png" alt="" /></a>
+                            </div>
+                        </div>
+
+                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">
+                        	<div class="client-box">
+                            	<a href="#"><img src="images/clients/2.png" alt="" /></a>
+                            </div>
+                        </div>
+
+                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">
+                        	<div class="client-box">
+                            	<a href="#"><img src="images/clients/3.png" alt="" /></a>
+                            </div>
+                        </div>
+
+                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">
+                        	<div class="client-box">
+                            	<a href="#"><img src="images/clients/4.png" alt="" /></a>
+                            </div>
+                        </div>
+
+                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">
+                        	<div class="client-box">
+                            	<a href="#"><img src="images/clients/5.png" alt="" /></a>
+                            </div>
+                        </div>
+
+                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">
+                        	<div class="client-box">
+                            	<a href="#"><img src="images/clients/6.png" alt="" /></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
             </div>
         </div>
     </section>
-        
+    <!--End Default Section-->
+
     <!--Main Footer-->
     <footer class="main-footer">
     	<div class="auto-container">
-        	
+
             <!--Widgets Section-->
             <div class="widgets-section">
             	<div class="row clearfix">
-                
+
                 	<!--Big Column-->
                 	<div class="big-column col-md-6 col-sm-12 col-xs-12">
                     	<div class="row clearfix">
@@ -520,7 +586,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
                             	<div class="footer-widget links-widget">
@@ -536,11 +602,11 @@
 
 						</div>
                     </div>
-                    
+
                     <!--Big Column-->
                 	<div class="big-column col-md-6 col-sm-12 col-xs-12">
                     	<div class="row clearfix">
-                        
+
 							<!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
 								<div class="footer-widget twitter-widget">
@@ -559,12 +625,12 @@
                                     </div>
                                 </div>
 							</div>
-                            
+
                             <!--Footer Column-->
                         	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
                                 <div class="footer-widget carousel-widget">
                                     <h2>Gallery</h2>
-                                    
+
                                     <div class="single-item-carousel owl-carousel owl-theme">
                                         <div class="slide">
                                             <img src="images/resource/footer-slide.jpg" alt="" />
@@ -576,26 +642,26 @@
                                             <img src="images/resource/footer-slide.jpg" alt="" />
                                         </div>
                                     </div>
-                                    
+
                                 </div>
 							</div>
-                            
+
 						</div>
                     </div>
-                    
+
                 </div>
             </div>
-                        
+
     	</div>
-        
+
         <!--Footer Bottom-->
             <div class="footer-bottom">
                 <div class="auto-container"><div class="copyright">Copyright &copy; 2017 Industry. All Rights Reserved</div></div>
             </div>
-        
+
     </footer>
     <!--End Main Footer-->
-    
+
 </div>
 <!--End pagewrapper-->
 
@@ -603,7 +669,7 @@
 <div class="scroll-to-top scroll-to-target" data-target=".main-header"><span class="icon fa fa-long-arrow-up"></span></div>
 
 
-<script src="js/jquery.js"></script> 
+<script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/revolution.min.js"></script>
 <script src="js/jquery.fancybox.pack.js"></script>
@@ -614,5 +680,5 @@
 <script src="js/script.js"></script>
 </body>
 
-<!-- Mirrored from wp.hostlin.com/nijmegan/blog-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:29:10 GMT -->
+<!-- Mirrored from wp.hostlin.com/nijmegan/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:27 GMT -->
 </html>
