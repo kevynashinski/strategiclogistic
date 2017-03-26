@@ -35,7 +35,7 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><div class="text text-center">We are the bridge between world of machinery and the delivery of your ordered products.</div></div>
+                    data-endeasing="Power4.easeIn"><div class="text text-center">We are the bridge between world of african products and the delivery of your ordered products.</div></div>
 
                     <div class="tp-caption sfr sfb tp-resizeme"
                     data-x="center" data-hoffset="0"
@@ -114,7 +114,7 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><h2 class="dark"><span>High Quality</span> Machineries <br> In All Solutions</h2></div>
+                    data-endeasing="Power4.easeIn"><h2 class="dark"><span>High Quality</span> African Products <br> In All Solutions</h2></div>
 
                     <div class="tp-caption sfl sfb tp-resizeme"
                     data-x="left" data-hoffset="15"
@@ -169,8 +169,8 @@
                             <h2>ABOUT <span>STRATEGIC LOGISTIC</span></h2>
                         </div>
                         <div class="text">
-                        	<p class="dark-text">A Kenyan based company that aims at solving real-life problems that involves machineries. </p>
-                            <p>We provide solutions for purchase of high quality resilient trucks, long vehicles, and any other machinery your interested in.
+                        	<p class="dark-text">A Kenyan based company that aims at solving real-life problems that involves african products. </p>
+                            <p>We provide solutions for purchase of high quality resilient trucks, long vehicles, and any other african products your interested in.
                             We also deliver the products to your door step, in a faster and efficient way.</p>
                         </div>
                         <a href="about-us.php" class="theme-btn btn-style-two">Read More</a>
@@ -216,7 +216,7 @@
                         	<span class="icon flaticon-shopping-cart"></span>
                         </div>
                         <h3><a href="services-single.php">Efficient Purchases</a></h3>
-                        <div class="text">Get in touch with us over a machinery product that your interested in and let us do the delivery to you.</div>
+                        <div class="text">Get in touch with us over a african product that your interested in and let us do the delivery to you.</div>
                         <a href="shop.php" class="read-more">Read More</a>
                     </div>
                 </div>
@@ -422,7 +422,7 @@
             	<div class="team-member col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<figure class="image wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        	<img src="images/resource/team-1.jpg" alt="" />
+                        	<img src="images/resource/rsz_kevin.jpg" alt="" />
                         </figure>
                         <!--Lower Box-->
                         <div class="lower-box">
@@ -436,12 +436,12 @@
             	<div class="team-member col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<figure class="image wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        	<img src="images/resource/team-2.jpg" alt="" />
+                        	<img src="images/resource/rsz_noreen.jpg" alt="" />
                         </figure>
                         <!--Lower Box-->
                         <div class="lower-box">
                         	<h3><a href="#">Noureen Beauty</a></h3>
-                            <div class="designation">Welder</div>
+                            <div class="designation">CEO</div>
                         </div>
                     </div>
                 </div>
@@ -454,7 +454,7 @@
                         </figure>
                         <!--Lower Box-->
                         <div class="lower-box">
-                        	<h3><a href="#">Kevin Anderson</a></h3>
+                        	<h3><a href="#">Grego Anderson</a></h3>
                             <div class="designation">Automation Engineer</div>
                         </div>
                     </div>
@@ -592,7 +592,7 @@
                                         <li>By <span>Kevin Wafula</span></li>
                                         <li class="date">Mar 25, 2017</li>
                                     </ul>
-                                    <div class="text">For your business to grow, you'll need quality, strong and good machinery.</div>
+                                    <div class="text">For your business to grow, you'll need quality, strong and good products.</div>
                                     <a href="blog-single.php" class="read-more">Read More</a>
                                 </div>
                             </div>

@@ -1,257 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<!-- Mirrored from wp.hostlin.com/nijmegan/shop-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:28:51 GMT -->
-<head>
-<meta charset="utf-8">
-<title>Nijmegan - Factory and Industrial HTML5 Template | Shop Single</title>
-<!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/revolution-slider.css" rel="stylesheet">
-<link href="css/nouislider.css" rel="stylesheet">
-<link href="css/nouislider.pips.css" rel="stylesheet">
-<link href="css/jquery.bootstrap-touchspin.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-<link rel="icon" href="images/favicon.ico" type="image/x-icon">
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<link href="css/responsive.css" rel="stylesheet">
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-</head>
-
-<body>
-<div class="page-wrapper">
-
-    <!-- Preloader -->
-    <div class="preloader"></div>
-
-    <!-- Main Header / Header Style Two-->
-    <header class="main-header header-style-two">
-        <!-- Header Top -->
-    	<div class="header-top">
-        	<div class="auto-container clearfix">
-            	<!--Top Left-->
-            	<div class="top-left pull-left">
-                    <ul class="links-nav clearfix">
-                    	<li>World’s Leading Industrial Solution Provider</li>
-                    </ul>
-                </div>
-
-                <!--Top Right-->
-            	<div class="top-right pull-right">
-                	<ul class="links-nav clearfix">
-                    	<li><a href="#"><span class="icon flaticon-smartphone-1"></span> 41 0235 6789</a></li>
-                        <li><a href="#"><span class="icon flaticon-clock"></span> Mon - Sat: 10am - 5pm</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!-- Header Top End -->
-
-    	<!--Header-Upper-->
-        <div class="header-upper">
-        	<div class="auto-container">
-            	<div class="clearfix">
-
-                	<div class="pull-left logo-outer">
-                    	<div class="logo"><a href="index-2.html"><img src="images/logo.png" alt="" title=""></a></div>
-                    </div>
-
-                    <div class="pull-right upper-right clearfix">
-
-                        <div class="nav-outer clearfix">
-                            <!-- Main Menu -->
-                            <nav class="main-menu">
-                                <div class="navbar-header">
-                                    <!-- Toggle Button -->
-                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    </button>
-                                </div>
-
-                                <div class="navbar-collapse collapse clearfix">
-                                    <ul class="navigation clearfix">
-                                        <li class="dropdown"><a href="#">Home</a>
-                                            <ul>
-                                                <li><a href="index-2.html">Homepage Style One</a></li>
-                                                <li><a href="index-3.html">Homepage Style Two</a></li>
-                                                <li><a href="index-4.html">Homepage Style Three</a></li>
-                                                <li class="dropdown"><a href="#">Header Styles</a>
-                                                    <ul>
-                                                        <li><a href="index-2.html">Header Style One</a></li>
-                                                        <li><a href="index-3.html">Header Style Two</a></li>
-                                                        <li><a href="index-4.html">Header Style Three</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">About</a>
-                                            <ul>
-                                                <li><a href="about-us.php">About Us</a></li>
-                                                <li><a href="team.php">Our Team</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Services</a>
-                                            <ul>
-                                                <li><a href="services.php">Our Services</a></li>
-                                                <li><a href="services-single.php">Agricultural Processing</a></li>
-                                                <li><a href="services-single.php">Chemical Research</a></li>
-                                                <li><a href="services-single.php">Material Engineering</a></li>
-                                                <li><a href="services-single.php">Mechanical Engineering</a></li>
-                                                <li><a href="services-single.php">Petroleum and Gas</a></li>
-                                                <li><a href="services-single.php">Power and Energy</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Project</a>
-                                            <ul>
-                                                <li><a href="project.html">Project</a></li>
-                                                <li><a href="project-single.php">Project Single</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="current dropdown"><a href="#">Shop</a>
-                                            <ul>
-                                                <li><a href="shop.php">Our Shop</a></li>
-                                                <li><a href="shop-single.html">Shop Single</a></li>
-                                                <li><a href="shopping-cart.html">Shopping Cart</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Blog</a>
-                                            <ul>
-                                                <li><a href="blog-grid.php">Our Blog</a></li>
-                                                <li><a href="blog-single.php">Blog Detail</a></li>
-                                                <li><a href="error-page.html">Error Page</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.php">Contact Us</a></li>
-                                    </ul>
-                                </div>
-                            </nav><!-- Main Menu End-->
-
-                            <!--Quote Button-->
-                            <div class="btn-outer">
-                            	<!--Search Box-->
-                                <div class="search-box-outer">
-                                    <div class="dropdown">
-                                        <button class="search-box-btn dropdown-toggle" type="button" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="fa fa-search"></span></button>
-                                        <ul class="dropdown-menu pull-right search-panel" aria-labelledby="dropdownMenu3">
-                                            <li class="panel-outer">
-                                                <div class="form-container">
-                                                    <form method="post" action="http://wp.hostlin.com/nijmegan/blog.html">
-                                                        <div class="form-group">
-                                                            <input type="search" name="field-name" value="" placeholder="Search Here" required>
-                                                            <button type="submit" class="search-btn"><span class="fa fa-search"></span></button>
-                                                        </div>
-                                                    </form>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-        <!--Sticky Header-->
-        <div class="sticky-header">
-        	<div class="auto-container clearfix">
-            	<!--Logo-->
-            	<div class="logo pull-left">
-                	<a href="index-2.html" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
-                </div>
-
-                <!--Right Col-->
-                <div class="right-col pull-right">
-                	<!-- Main Menu -->
-                    <nav class="main-menu">
-                        <div class="navbar-header">
-                            <!-- Toggle Button -->
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            </button>
-                        </div>
-
-                        <div class="navbar-collapse collapse clearfix">
-                            <ul class="navigation clearfix">
-                                <li class="dropdown"><a href="#">Home</a>
-                                    <ul>
-                                        <li><a href="index-2.html">Homepage Style One</a></li>
-                                        <li><a href="index-3.html">Homepage Style Two</a></li>
-                                        <li><a href="index-4.html">Homepage Style Three</a></li>
-                                        <li class="dropdown"><a href="#">Header Styles</a>
-                                        	<ul>
-                                        		<li><a href="index-2.html">Header Style One</a></li>
-												<li><a href="index-3.html">Header Style Two</a></li>
-												<li><a href="index-4.html">Header Style Three</a></li>
-											</ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">About</a>
-                                	<ul>
-                                        <li><a href="about-us.php">About Us</a></li>
-                                        <li><a href="team.php">Our Team</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Services</a>
-                                    <ul>
-                                        <li><a href="services.php">Our Services</a></li>
-                                        <li><a href="services-single.php">Agricultural Processing</a></li>
-                                        <li><a href="services-single.php">Chemical Research</a></li>
-                                        <li><a href="services-single.php">Material Engineering</a></li>
-                                        <li><a href="services-single.php">Mechanical Engineering</a></li>
-                                        <li><a href="services-single.php">Petroleum and Gas</a></li>
-                                        <li><a href="services-single.php">Power and Energy</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Project</a>
-                                    <ul>
-                                    	<li><a href="project.html">Project</a></li>
-                                        <li><a href="project-single.php">Project Single</a></li>
-                                    </ul>
-                                </li>
-                                <li class="current dropdown"><a href="#">Shop</a>
-                                    <ul>
-                                        <li><a href="shop.php">Our Shop</a></li>
-                                        <li><a href="shop-single.html">Shop Single</a></li>
-                                        <li><a href="shopping-cart.html">Shopping Cart</a></li>
-                                        <li><a href="checkout.html">Checkout</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Blog</a>
-                                    <ul>
-                                        <li><a href="blog-grid.php">Our Blog</a></li>
-                                        <li><a href="blog-single.php">Blog Detail</a></li>
-                                        <li><a href="error-page.html">Error Page</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.php">Contact Us</a></li>
-                            </ul>
-                        </div>
-                    </nav><!-- Main Menu End-->
-                </div>
-
-            </div>
-        </div>
-        <!--End Sticky Header-->
-
-    </header>
-    <!--End Main Header -->
+<? include "header.php";?>
 
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/5.jpg);">
@@ -259,12 +6,12 @@
         	<div class="row clearfix">
             	<!--Title -->
             	<div class="title-column col-md-6 col-sm-6 col-xs-12">
-                	<h1>Shop Detail</h1>
+                	<h1>Product Details</h1>
                 </div>
                 <!--Bread Crumb -->
                 <div class="breadcrumb-column col-md-6 col-sm-6 col-xs-12">
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
+                        <li><a href="./">Home</a></li>
                         <li class="active">Shop Detail</li>
                     </ul>
                 </div>
@@ -286,11 +33,11 @@
                             <div class="basic-details">
                                 <div class="row clearfix">
                                     <div class="image-column col-md-6 col-sm-6 col-xs-12">
-                                        <figure class="image-box"><a href="images/resource/products/10.png" class="lightbox-image" title="Image Caption Here"><img src="images/resource/products/10.png" alt=""></a></figure>
+                                        <figure class="image-box"><a href="images/resource/products/product13_268x303.jpg" class="lightbox-image" title="Image Caption Here"><img src="images/resource/products/product13_268x303.jpg" alt=""></a></figure>
                                     </div>
                                     <div class="info-column col-md-6 col-sm-6 col-xs-12">
                                         <div class="details-header">
-                                            <h4>Safety Gears</h4>
+                                            <h4>Dried Sheep Skin</h4>
                                             <div class="rating">
                                             	<span class="fa fa-star"></span>
                                                 <span class="fa fa-star"></span>
@@ -299,11 +46,11 @@
                                                 <span class="fa fa-star-o"></span>
                                                 <span class="reviews">(2 Customer Reviews)</span>
                                             </div>
-                                            <div class="item-price">$215.00</div>
+                                            <div class="item-price">Ksh 5,600</div>
                                         </div>
 
                                         <div class="text">
-                                            <p>Monetization bootstrapping seed round beta metrics creative return on investment entrepreneur early adopters social proof android seed money launch party. Ramen bandwidth partnership gamification client MVP entrepreneur creative paradigm shift alpha. Product management infrastructure focus stealth vesting period startup ownership.</p>
+                                            <p>Sheep skin that has been sun dried, treated well and it's ready for anything you'd want to create with.</p>
                                         </div>
 
                                         <div class="other-options clearfix">
@@ -314,7 +61,7 @@
 
                                         <!--Item Meta-->
                                         <ul class="item-meta">
-                                            <li><strong>Categories:</strong> <a href="#">Accessories</a> , <a href="#">Safety Gears</a></li>
+                                            <li><strong>Categories:</strong> <a href="#">African</a> , <a href="#">Local Products</a></li>
                                         </ul>
 
                                     </div>
@@ -331,7 +78,7 @@
                                     <!--Tab Btns-->
                                     <ul class="tab-buttons clearfix">
                                         <li class="tab-btn active-btn" data-tab="#prod-description">Description</li>
-                                        <li class="tab-btn" data-tab="#prod-reviews">Reviews (3)</li>
+                                        <li class="tab-btn" data-tab="#prod-reviews">Reviews (1)</li>
                                     </ul>
 
                                     <!--Tabs Container-->
@@ -340,44 +87,44 @@
                                         <!--Tab / Active Tab-->
                                         <div class="tab active-tab" id="prod-description">
                                             <div class="content">
-                                                <p>Influencer vesting period success branding social media technology prototype paradigm shift rockstar. Release analytics series financing termsheet infographic. Launch party hypotheses stealth business model canvas ramen seed round founders venture business to business consumer.</p>
+                                                <p>This product has been obtained naturally from a Kenyan indigenous sheep.</p>
                                             </div>
                                         </div>
 
                                         <!--Tab-->
                                         <div class="tab" id="prod-reviews">
-                                            <h3>3 Reviews Found</h3>
+                                            <h3>1 Reviews Found</h3>
 
                                             <!--Reviews Container-->
                                             <div class="reviews-container">
 
                                                 <!--Reviews-->
                                                 <article class="review-box clearfix">
-                                                    <figure class="rev-thumb"><img src="images/resource/author-1.png" alt=""></figure>
+                                                    <figure class="rev-thumb"><img src="images/resource/author-1.jpg" alt=""></figure>
                                                     <div class="rev-content">
                                                         <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star-o"></span></div>
-                                                        <div class="rev-info">Admin – April 03, 2016: </div>
-                                                        <div class="rev-text"><p>Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis</p></div>
+                                                        <div class="rev-info">Admin – Mar 27, 2017: </div>
+                                                        <div class="rev-text"><p>The best product there is, high quality.</p></div>
                                                     </div>
                                                 </article>
 
-                                                <article class="review-box clearfix">
-                                                    <figure class="rev-thumb"><img src="images/resource/author-2.png" alt=""></figure>
-                                                    <div class="rev-content">
-                                                        <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star-o"></span> <span class="fa fa-star-o"></span></div>
-                                                        <div class="rev-info">Ahsan – April 01, 2016: </div>
-                                                        <div class="rev-text"><p>Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis</p></div>
-                                                    </div>
-                                                </article>
-
-                                                <article class="review-box clearfix">
-                                                    <figure class="rev-thumb"><img src="images/resource/author-3.png" alt=""></figure>
-                                                    <div class="rev-content">
-                                                        <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
-                                                        <div class="rev-info">Sara – March 31, 2016: </div>
-                                                        <div class="rev-text"><p>Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis</p></div>
-                                                    </div>
-                                                </article>
+<!--                                                <article class="review-box clearfix">-->
+<!--                                                    <figure class="rev-thumb"><img src="images/resource/author-2.png" alt=""></figure>-->
+<!--                                                    <div class="rev-content">-->
+<!--                                                        <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star-o"></span> <span class="fa fa-star-o"></span></div>-->
+<!--                                                        <div class="rev-info">Ahsan – April 01, 2016: </div>-->
+<!--                                                        <div class="rev-text"><p>Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis</p></div>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!---->
+<!--                                                <article class="review-box clearfix">-->
+<!--                                                    <figure class="rev-thumb"><img src="images/resource/author-3.png" alt=""></figure>-->
+<!--                                                    <div class="rev-content">-->
+<!--                                                        <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>-->
+<!--                                                        <div class="rev-info">Sara – March 31, 2016: </div>-->
+<!--                                                        <div class="rev-text"><p>Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis</p></div>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
 
                                             </div>
 
@@ -385,7 +132,7 @@
                                             <div class="add-review">
                                                 <h3>Add a Review</h3>
 
-                                                <form method="post" action="http://wp.hostlin.com/nijmegan/shop-single.html">
+                                                <form method="post" action="#">
                                                     <div class="row clearfix">
                                                         <div class="form-group col-md-6 col-sm-12 col-xs-12">
                                                             <label>Name *</label>
@@ -436,17 +183,17 @@
                                     <div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
                                         <div class="inner-box">
                                             <div class="image-box">
-                                                <a href="shop-single.html"><img src="images/resource/products/1.png" alt="" /></a>
+                                                <a href="shop-single.php"><img src="images/resource/products/product01.jpg" alt="" /></a>
                                                 <div class="overlay-box">
                                                     <div class="item-options clearfix">
                                                         <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
-                                                        <a href="shop-single.html" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                        <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="lower-box">
-                                                <h4><a href="shop-single.html">Construction Helmet</a></h4>
-                                                <div class="price">$ 24.00</div>
+                                                <h4><a href="shop-single.php">African Wood Table</a></h4>
+                                                <div class="price">Ksh 24,000</div>
                                                 <!--Rating-->
                                                 <div class="rating">
                                                     <span class="fa fa-star"></span>
@@ -463,17 +210,17 @@
                                     <div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
                                         <div class="inner-box">
                                             <div class="image-box">
-                                                <a href="shop-single.html"><img src="images/resource/products/2.png" alt="" /></a>
+                                                <a href="shop-single.php"><img src="images/resource/products/product02.jpg" alt="" /></a>
                                                 <div class="overlay-box">
                                                     <div class="item-options clearfix">
                                                         <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
-                                                        <a href="shop-single.html" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                        <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="lower-box">
-                                                <h4><a href="shop-single.html">Safety Gears</a></h4>
-                                                <div class="price">$ 215.00</div>
+                                                <h4><a href="shop-single.php">Tree Seedlings</a></h4>
+                                                <div class="price">Ksh 215,000</div>
                                                 <!--Rating-->
                                                 <div class="rating">
                                                     <span class="fa fa-star"></span>
@@ -490,17 +237,17 @@
                                     <div class="shop-item col-lg-4 col-md-6 col-sm-4 col-xs-12">
                                         <div class="inner-box">
                                             <div class="image-box">
-                                                <a href="shop-single.html"><img src="images/resource/products/3.png" alt="" /></a>
+                                                <a href="shop-single.php"><img src="images/resource/products/product04_268x303.jpg" alt="" /></a>
                                                 <div class="overlay-box">
                                                     <div class="item-options clearfix">
                                                         <a href="shopping-cart.html" class="option-btn"><span class="flaticon-shopping-cart-1"></span><div class="tool-tip">Add to cart</div></a>
-                                                        <a href="shop-single.html" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
+                                                        <a href="shop-single.php" class="option-btn"><span class="flaticon-heart-1"></span><div class="tool-tip">Add to Fav</div></a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="lower-box">
-                                                <h4><a href="shop-single.html">Protective Wear</a></h4>
-                                                <div class="price">$ 32.00</div>
+                                                <h4><a href="shop-single.php">Coffee Original</a></h4>
+                                                <div class="price">Ksh 32/pack</div>
                                                 <!--Rating-->
                                                 <div class="rating">
                                                     <span class="fa fa-star"></span>
@@ -529,7 +276,7 @@
                         	<div class="sidebar-title">
                                 <h2>SEARCH PRODUCTS</h2>
                             </div>
-                            <form method="post" action="http://wp.hostlin.com/nijmegan/shop.html">
+                            <form method="post" action="#">
                                 <div class="form-group">
                                     <input type="search" name="search-field" value="" placeholder="Search Products...">
                                     <button type="submit"><span class="icon fa fa-search"></span></button>
@@ -543,12 +290,12 @@
                                 <h2>PRODUCT CATEGORIES</h2>
                             </div>
                             <ul class="list-two style-two">
-                            	<li><a href="#">Helmets (10)</a></li>
-                                <li><a href="#">Safety Gears (25)</a></li>
-                                <li><a href="#">Glass (6)</a></li>
-                                <li><a href="#">Safety Shoes (4)</a></li>
-                                <li><a href="#">Industry Mask (12)</a></li>
-                                <li><a href="#">Gloves (3)</a></li>
+                            	<li><a href="#">Animal Skin (3)</a></li>
+                                <li><a href="#">Tree Seedlings (25)</a></li>
+                                <li><a href="#">Coffee Products (6)</a></li>
+<!--                                <li><a href="#">Safety Shoes (4)</a></li>-->
+<!--                                <li><a href="#">Industry Mask (12)</a></li>-->
+<!--                                <li><a href="#">Gloves (3)</a></li>-->
                             </ul>
                         </div>
 
@@ -559,7 +306,7 @@
                                 <div class="range-slider-price" id="range-slider-price"></div>
                                 <div class="form-group clearfix">
                                 	<div class="pull-right">
-                                    	<span class="left-val">$<input type="text" class="val-box text-left" id="min-value-rangeslider"></span> - <span class="right-val">$<input type="text" class="val-box text-right" id="max-value-rangeslider"></span>
+                                    	<span class="left-val">Ksh<input type="text" class="val-box text-left" id="min-value-rangeslider"></span> - <span class="right-val">Ksh<input type="text" class="val-box text-right" id="max-value-rangeslider"></span>
                                     </div>
                                     <div class="pull-left">
                                     	<button type="button" class="theme-btn btn-style-two">Filter</button>
@@ -573,13 +320,9 @@
                         	<div class="sidebar-title">
                             	<h2>POPULAR TAGS</h2>
                             </div>
-                            <a href="#">Safety Gears</a>
-                            <a href="#">Helmet</a>
-                            <a href="#">Gloves</a>
-                            <a href="#">Glass</a>
-                            <a href="#">Industry</a>
-                            <a href="#">Shoes</a>
-                            <a href="#">Industry Equipments</a>
+                            <a href="#">Animal Skin</a>
+                            <a href="#">Tree Seedlings</a>
+                            <a href="#">Coffee Products</a>
                         </div>
 
                     </div>
@@ -589,113 +332,7 @@
         </div>
     </div>
 
-    <!--Main Footer-->
-    <footer class="main-footer">
-    	<div class="auto-container">
-
-            <!--Widgets Section-->
-            <div class="widgets-section">
-            	<div class="row clearfix">
-
-                	<!--Big Column-->
-                	<div class="big-column col-md-6 col-sm-12 col-xs-12">
-                    	<div class="row clearfix">
-
-							<!--Footer Column-->
-                        	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
-                            	<div class="footer-widget logo-widget">
-                                	<div class="logo-box">
-                                    	<a href="index-2.html"><img src="images/logo.png" alt="" /></a>
-                                    </div>
-                                    <div class="widget-content">
-                                    	<div class="text">
-                                        	<p>Angel investor growth hacking  adopters ramen funding bootstrapping return on investment buzz business.</p>
-                                        </div>
-                                    </div>
-                                    <div class="social-links-two">
-                                        <a href="#"><span class="fa fa-facebook-f"></span></a>
-                                        <a href="#"><span class="fa fa-twitter"></span></a>
-                                        <a href="#"><span class="fa fa-google-plus"></span></a>
-                                        <a href="#"><span class="fa fa-pinterest-p"></span></a>
-                                        <a href="#"><span class="fa fa-linkedin"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!--Footer Column-->
-                        	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
-                            	<div class="footer-widget links-widget">
-                                	<h2>Contact Us</h2>
-                                    <ul class="contact-info">
-                                        <li><div class="icon"><span class="flaticon-location-pin"></span></div>20 Park St, Sydney, Australia</li>
-                                        <li><div class="icon"><span class="flaticon-smartphone-1"></span></div>41 0235 6789</li>
-                                        <li><div class="icon"><span class="flaticon-e-mail-envelope"></span></div>info@industry.com</li>
-                                        <li><div class="icon"><span class="flaticon-clock"></span></div>Mon - Sat: 10am - 5pm</li>
-                                    </ul>
-                                </div>
-                            </div>
-
-						</div>
-                    </div>
-
-                    <!--Big Column-->
-                	<div class="big-column col-md-6 col-sm-12 col-xs-12">
-                    	<div class="row clearfix">
-
-							<!--Footer Column-->
-                        	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
-								<div class="footer-widget twitter-widget">
-                                    <h2>TWITTER FEED</h2>
-                                    <div class="widget-content">
-                                        <div class="feed">
-                                            <div class="text">Research & development seed round busines interaction advisor success...</div>
-                                            <span class="month"><a href="#">https://t.co/NgHF6TL31Q</a></span>
-                                            <div class="date-box">Nov  07, 2016</div>
-                                        </div>
-                                        <div class="feed">
-                                            <div class="text">Research & development seed round busines interaction advisor success...</div>
-                                            <span class="month"><a href="#">https://t.co/NgHF6TL31Q</a></span>
-                                            <div class="date-box">Nov  07, 2016</div>
-                                        </div>
-                                    </div>
-                                </div>
-							</div>
-
-                            <!--Footer Column-->
-                        	<div class="footer-column col-md-6 col-sm-6 col-xs-12">
-                                <div class="footer-widget carousel-widget">
-                                    <h2>Gallery</h2>
-
-                                    <div class="single-item-carousel owl-carousel owl-theme">
-                                        <div class="slide">
-                                            <img src="images/resource/footer-slide.jpg" alt="" />
-                                        </div>
-                                        <div class="slide">
-                                            <img src="images/resource/footer-slide.jpg" alt="" />
-                                        </div>
-                                        <div class="slide">
-                                            <img src="images/resource/footer-slide.jpg" alt="" />
-                                        </div>
-                                    </div>
-
-                                </div>
-							</div>
-
-						</div>
-                    </div>
-
-                </div>
-            </div>
-
-    	</div>
-
-        <!--Footer Bottom-->
-            <div class="footer-bottom">
-                <div class="auto-container"><div class="copyright">Copyright &copy; 2017 Industry. All Rights Reserved</div></div>
-            </div>
-
-    </footer>
-    <!--End Main Footer-->
+    <? include "footer.php";?>
 
 </div>
 <!--End pagewrapper-->

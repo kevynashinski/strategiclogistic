@@ -4,7 +4,7 @@
 <!-- Mirrored from wp.hostlin.com/nijmegan/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Mar 2017 12:26:18 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>Strategic Logistic</title>
+    <title>Strategic Logistics</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/revolution-slider.css" rel="stylesheet">
@@ -58,7 +58,7 @@
                 <div class="clearfix">
 
                     <div class="pull-left logo-outer">
-                        <div class="logo"><a href="./"><img src="images/logo-200X80.jpg" alt="" title=""></a></div>
+                        <div class="logo"><a href="./"><img src="images/logo-200x80.jpg" alt="" title=""></a></div>
                     </div>
 
                     <div class="pull-right upper-right clearfix">
@@ -115,7 +115,7 @@
 
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li class="current dropdown"><a href="./">Home</a>
+                                <li ><a href="./">Home</a>
 <!--                                    <ul>-->
 <!--                                        <li><a href="index-2.html">Homepage Style One</a></li>-->
 <!--                                        <li><a href="index-3.html">Homepage Style Two</a></li>-->
@@ -146,7 +146,7 @@
 <!--                                        <li><a href="project-single.html">Project Single</a></li>-->
 <!--                                    </ul>-->
 <!--                                </li>-->
-                                <li class="dropdown"><a href="shop.php">Shop</a>
+                                <li ><a href="shop.php">Shop</a>
 <!--                                    <ul>-->
 <!--                                        <li><a href="shop.html">Our Shop</a></li>-->
 <!--                                        <li><a href="shop-single.html">Shop Single</a></li>-->
@@ -154,14 +154,14 @@
 <!--                                        <li><a href="checkout.html">Checkout</a></li>-->
 <!--                                    </ul>-->
                                 </li>
-                                <li class="dropdown"><a href="#">Blog</a>
-                                    <ul>
-                                        <li><a href="blog-grid.php">Our Blog</a></li>
-                                        <li><a href="blog-single.php">Blog Detail</a></li>
-                                        <li><a href="error-page.html">Error Page</a></li>
-                                    </ul>
+                                <li ><a href="blog-grid.php">Blog</a>
+<!--                                    <ul>-->
+<!--                                        <li><a href="blog-grid.php">Our Blog</a></li>-->
+<!--                                        <li><a href="blog-single.php">Blog Detail</a></li>-->
+<!--                                        <li><a href="error-page.html">Error Page</a></li>-->
+<!--                                    </ul>-->
                                 </li>
-                                <li class="dropdown"><a href="about-us.php">About Us</a>
+                                <li ><a href="about-us.php">About Us</a>
 <!--                                    <ul>-->
 <!--                                        <li><a href="about-us.html">About Us</a></li>-->
 <!--                                        <li><a href="team.html">Our Team</a></li>-->
@@ -183,7 +183,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="./" class="img-responsive"><img src="images/logo-small-150X50.jpg" alt="" title=""></a>
+                    <a href="./" class="img-responsive"><img src="images/logo_150x50.jpg" alt="" title=""></a>
                 </div>
 
                 <!--Right Col-->
@@ -201,7 +201,7 @@
 
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li class="current dropdown"><a href="./">Home</a>
+                                <li ><a href="./">Home</a>
 <!--                                    <ul>-->
 <!--                                        <li><a href="index-2.html">Homepage Style One</a></li>-->
 <!--                                        <li><a href="index-3.html">Homepage Style Two</a></li>-->
@@ -215,7 +215,7 @@
 <!--                                        </li>-->
 <!--                                    </ul>-->
                                 </li>
-                                <li class="dropdown"><a href="about-us.php">About</a>
+                                <li ><a href="about-us.php">About</a>
 <!--                                    <ul>-->
 <!--                                        <li><a href="about-us.html">About Us</a></li>-->
 <!--                                        <li><a href="team.html">Our Team</a></li>-->
@@ -238,20 +238,20 @@
 <!--                                        <li><a href="project-single.html">Project Single</a></li>-->
 <!--                                    </ul>-->
 <!--                                </li>-->
-                                <li class="dropdown"><a href="shop.php">Shop</a>
-<!--                                    <ul>-->
-<!--                                        <li><a href="shop.php">Our Shop</a></li>-->
+                                <li ><a href="shop.php">Shop</a>
+                                    <ul>
+                                        <li><a href="shop.php">Our Shop</a></li>
 <!--                                        <li><a href="shop-single.html">Shop Single</a></li>-->
 <!--                                        <li><a href="shopping-cart.html">Shopping Cart</a></li>-->
 <!--                                        <li><a href="checkout.html">Checkout</a></li>-->
-<!--                                    </ul>-->
-                                </li>
-                                <li class="dropdown"><a href="#">Blog</a>
-                                    <ul>
-                                        <li><a href="blog-grid.php">Our Blog</a></li>
-                                        <li><a href="blog-single.php">Blog Detail</a></li>
-                                        <li><a href="error-page.html">Error Page</a></li>
                                     </ul>
+                                </li>
+                                <li ><a href="#">Blog</a>
+<!--                                    <ul>-->
+<!--                                        <li><a href="blog-grid.php">Our Blog</a></li>-->
+<!--                                        <li><a href="blog-single.php">Blog Detail</a></li>-->
+<!--                                        <li><a href="error-page.html">Error Page</a></li>-->
+<!--                                    </ul>-->
                                 </li>
                                 <li><a href="contact.php">Contact Us</a></li>
                             </ul>

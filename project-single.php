@@ -107,7 +107,7 @@
                                         </li>
                                         <li class="current dropdown"><a href="#">Project</a>
                                             <ul>
-                                                <li><a href="project.html">Project</a></li>
+                                                <li><a href="project.php">Project</a></li>
                                                 <li><a href="project-single.html">Project Single</a></li>
                                             </ul>
                                         </li>
@@ -116,14 +116,14 @@
                                                 <li><a href="shop.php">Our Shop</a></li>
                                                 <li><a href="shop-single.php">Shop Single</a></li>
                                                 <li><a href="shopping-cart.html">Shopping Cart</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
+                                                <li><a href="checkout.php">Checkout</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Blog</a>
                                             <ul>
                                                 <li><a href="blog-grid.php">Our Blog</a></li>
                                                 <li><a href="blog-single.php">Blog Detail</a></li>
-                                                <li><a href="error-page.html">Error Page</a></li>
+                                                <li><a href="error-page.php">Error Page</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="contact.php">Contact Us</a></li>
@@ -218,7 +218,7 @@
                                 </li>
                                 <li class="current dropdown"><a href="#">Project</a>
                                     <ul>
-                                    	<li><a href="project.html">Project</a></li>
+                                    	<li><a href="project.php">Project</a></li>
                                         <li><a href="project-single.html">Project Single</a></li>
                                     </ul>
                                 </li>
@@ -227,14 +227,14 @@
                                         <li><a href="shop.php">Our Shop</a></li>
                                         <li><a href="shop-single.php">Shop Single</a></li>
                                         <li><a href="shopping-cart.html">Shopping Cart</a></li>
-                                        <li><a href="checkout.html">Checkout</a></li>
+                                        <li><a href="checkout.php">Checkout</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Blog</a>
                                     <ul>
                                         <li><a href="blog-grid.php">Our Blog</a></li>
                                         <li><a href="blog-single.php">Blog Detail</a></li>
-                                        <li><a href="error-page.html">Error Page</a></li>
+                                        <li><a href="error-page.php">Error Page</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact.php">Contact Us</a></li>

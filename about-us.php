@@ -31,7 +31,7 @@
                     	<!--Sec Title-->
                     	<div class="sec-title">
                         	<div class="title">Who we are</div>
-                            <h2>ABOUT <span>INDUSTRY</span></h2>
+                            <h2>ABOUT <span>STRATEGIC LOGISTICS</span></h2>
                         </div>
                         <div class="text">
                             <p class="dark-text">A Kenyan based company that aims at solving real-life problems that involves machineries. </p>
@@ -39,6 +39,10 @@
                                 We also deliver the products to your door step, in a faster and efficient way.</p>
                         </div>
 <!--                        <a href="#" class="theme-btn btn-style-two">Read More</a>-->
+                        <div>
+                            <p>Account No. <b>14135202</b></p>
+                            <p>First Community Bank Eastleigh Branch</p>
+                        </div>
                     </div>
                 </div>
                 <!--Image Column-->

@@ -107,7 +107,7 @@
                                         </li>
                                         <li class="dropdown"><a href="#">Project</a>
                                             <ul>
-                                                <li><a href="project.html">Project</a></li>
+                                                <li><a href="project.php">Project</a></li>
                                                 <li><a href="project-single.php">Project Single</a></li>
                                             </ul>
                                         </li>
@@ -116,7 +116,7 @@
                                                 <li><a href="shop.php">Our Shop</a></li>
                                                 <li><a href="shop-single.php">Shop Single</a></li>
                                                 <li><a href="shopping-cart.html">Shopping Cart</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
+                                                <li><a href="checkout.php">Checkout</a></li>
                                             </ul>
                                         </li>
                                         <li class="current dropdown"><a href="#">Blog</a>
@@ -218,7 +218,7 @@
                                 </li>
                                 <li class="dropdown"><a href="#">Project</a>
                                     <ul>
-                                    	<li><a href="project.html">Project</a></li>
+                                    	<li><a href="project.php">Project</a></li>
                                         <li><a href="project-single.php">Project Single</a></li>
                                     </ul>
                                 </li>
@@ -227,7 +227,7 @@
                                         <li><a href="shop.php">Our Shop</a></li>
                                         <li><a href="shop-single.php">Shop Single</a></li>
                                         <li><a href="shopping-cart.html">Shopping Cart</a></li>
-                                        <li><a href="checkout.html">Checkout</a></li>
+                                        <li><a href="checkout.php">Checkout</a></li>
                                     </ul>
                                 </li>
                                 <li class="current dropdown"><a href="#">Blog</a>
