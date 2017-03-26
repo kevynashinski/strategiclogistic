@@ -9,7 +9,7 @@
                 <ul>
 
                     <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/image-1.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
-                    <img src="images/main-slider/image-1.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    <img src="images/main-slider/Coffee_Genes_490963203_1_1920x813.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
                     <div class="tp-caption sfl sfb tp-resizeme"
                     data-x="center" data-hoffset="0"
@@ -22,7 +22,7 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><h2>Offering the best and wide range of products</h2></div>
+                    data-endeasing="Power4.easeIn"><h2>Offering the best and wide range of african products</h2></div>
 
                     <div class="tp-caption sfl sfb tp-resizeme"
                     data-x="center" data-hoffset="0"
@@ -55,7 +55,7 @@
                     </li>
 
                     <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/image-2.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
-                    <img src="images/main-slider/image-2.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                    <img src="images/main-slider/product14_1920x813.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
                     <div class="tp-caption sfl sfb tp-resizeme"
                     data-x="left" data-hoffset="15"
@@ -100,55 +100,55 @@
 
                     </li>
 
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/image-3.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
-                    <img src="images/main-slider/image-3.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-
-                    <div class="tp-caption sfl sfb tp-resizeme"
-                    data-x="left" data-hoffset="15"
-                    data-y="center" data-voffset="-120"
-                    data-speed="1500"
-                    data-start="500"
-                    data-easing="easeOutExpo"
-                    data-splitin="none"
-                    data-splitout="none"
-                    data-elementdelay="0.01"
-                    data-endelementdelay="0.3"
-                    data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><h2 class="dark"><span>High Quality</span> African Products <br> In All Solutions</h2></div>
-
-                    <div class="tp-caption sfl sfb tp-resizeme"
-                    data-x="left" data-hoffset="15"
-                    data-y="center" data-voffset="-20"
-                    data-speed="1500"
-                    data-start="1000"
-                    data-easing="easeOutExpo"
-                    data-splitin="none"
-                    data-splitout="none"
-                    data-elementdelay="0.01"
-                    data-endelementdelay="0.3"
-                    data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><div class="text dark-text">Supply chain investor startup holy grail product management <br> infrastructure user experience beta interaction design.</div></div>
-
-                    <div class="tp-caption sfr sfb tp-resizeme"
-                    data-x="left" data-hoffset="15"
-                    data-y="center" data-voffset="70"
-                    data-speed="1500"
-                    data-start="1500"
-                    data-easing="easeOutExpo"
-                    data-splitin="none"
-                    data-splitout="none"
-                    data-elementdelay="0.01"
-                    data-endelementdelay="0.3"
-                    data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-two">READ MORE</a> &nbsp; &nbsp;
-<!--                        <a href="contact.php" class="theme-btn btn-style-four">GET A QUOTE</a>-->
-</div>
-
-                    </li>
+<!--                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/image-3.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">-->
+<!--                    <img src="images/main-slider/Coffee_Genes_490963203_1_1920x813.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">-->
+<!---->
+<!--                    <div class="tp-caption sfl sfb tp-resizeme"-->
+<!--                    data-x="left" data-hoffset="15"-->
+<!--                    data-y="center" data-voffset="-120"-->
+<!--                    data-speed="1500"-->
+<!--                    data-start="500"-->
+<!--                    data-easing="easeOutExpo"-->
+<!--                    data-splitin="none"-->
+<!--                    data-splitout="none"-->
+<!--                    data-elementdelay="0.01"-->
+<!--                    data-endelementdelay="0.3"-->
+<!--                    data-endspeed="1200"-->
+<!--                    data-endeasing="Power4.easeIn"><h2 class="dark"><span>High Quality</span> African Products <br> In All Solutions</h2></div>-->
+<!---->
+<!--                    <div class="tp-caption sfl sfb tp-resizeme"-->
+<!--                    data-x="left" data-hoffset="15"-->
+<!--                    data-y="center" data-voffset="-20"-->
+<!--                    data-speed="1500"-->
+<!--                    data-start="1000"-->
+<!--                    data-easing="easeOutExpo"-->
+<!--                    data-splitin="none"-->
+<!--                    data-splitout="none"-->
+<!--                    data-elementdelay="0.01"-->
+<!--                    data-endelementdelay="0.3"-->
+<!--                    data-endspeed="1200"-->
+<!--                    data-endeasing="Power4.easeIn"><div class="text dark-text">Supply chain investor startup holy grail product management <br> infrastructure user experience beta interaction design.</div></div>-->
+<!---->
+<!--                    <div class="tp-caption sfr sfb tp-resizeme"-->
+<!--                    data-x="left" data-hoffset="15"-->
+<!--                    data-y="center" data-voffset="70"-->
+<!--                    data-speed="1500"-->
+<!--                    data-start="1500"-->
+<!--                    data-easing="easeOutExpo"-->
+<!--                    data-splitin="none"-->
+<!--                    data-splitout="none"-->
+<!--                    data-elementdelay="0.01"-->
+<!--                    data-endelementdelay="0.3"-->
+<!--                    data-endspeed="1200"-->
+<!--                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-two">READ MORE</a> &nbsp; &nbsp;-->
+<!--<!--                        <a href="contact.php" class="theme-btn btn-style-four">GET A QUOTE</a>-->
+<!--</div>-->
+<!---->
+<!--                    </li>-->
 
                 </ul>
 
-            	<div class="tp-bannertimer"></div>
+<!--            	<div class="tp-bannertimer"></div>-->
             </div>
         </div>
     </section>
@@ -161,17 +161,16 @@
 
             	<!--Content Column-->
             	<div class="content-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="icon-box"><span class="icon flaticon-helmet"></span></div>
+<!--                	<div class="icon-box"><span class="icon flaticon-helmet"></span></div>-->
                 	<div class="inner-box">
                     	<!--Sec Title-->
                     	<div class="sec-title">
                         	<div class="title">Who we are</div>
-                            <h2>ABOUT <span>STRATEGIC LOGISTIC</span></h2>
+                            <h2>ABOUT <span>STRATEGIC LOGISTICS</span></h2>
                         </div>
                         <div class="text">
-                        	<p class="dark-text">A Kenyan based company that aims at solving real-life problems that involves african products. </p>
-                            <p>We provide solutions for purchase of high quality resilient trucks, long vehicles, and any other african products your interested in.
-                            We also deliver the products to your door step, in a faster and efficient way.</p>
+                            <p class="dark-text">A Kenyan based company that aims at solving real-life problems that involves agriculture. </p>
+                            <p>We provide solutions for purchase of high quality seedlings to trees, crops and animal products.</p>
                         </div>
                         <a href="about-us.php" class="theme-btn btn-style-two">Read More</a>
                     </div>
@@ -182,9 +181,9 @@
                 	<!--video-box-->
                 	<div class="video-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<figure class="image">
-                        	<img src="images/resource/about.jpg" alt="" />
+                        	<img src="images/resource/product04_599x384.jpg" alt="" />
                         </figure>
-                        <a href="https://www.youtube.com/watch?v=0e1uTwSRGgI" class="lightbox-image overlay-box"><span class="flaticon-arrows-5"></span></a>
+                        <a href="#" class="lightbox-image overlay-box"><span class="flaticon-arrows-5"></span></a>
                     </div>
                 </div>
 
@@ -201,10 +200,10 @@
             	<div class="services-block col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="icon-box">
-                        	<span class="icon flaticon-wrench"></span>
+                        	<span class="icon flaticon-phone-call"></span>
                         </div>
-                        <h3><a href="services-single.php">Creditable Integrity</a></h3>
-                        <div class="text">Interaction design business-to-business low hanging fruit bootstrapping startup launch party user experience bandwidth web design.</div>
+                        <h3><a href="services-single.php">Consultancy Services</a></h3>
+                        <div class="text">You can always reach out to us when you need any advice concerning all your agricultural problems.</div>
                         <a href="services-single.php" class="read-more">Read More</a>
                     </div>
                 </div>
@@ -215,8 +214,8 @@
                     	<div class="icon-box">
                         	<span class="icon flaticon-shopping-cart"></span>
                         </div>
-                        <h3><a href="services-single.php">Efficient Purchases</a></h3>
-                        <div class="text">Get in touch with us over a african product that your interested in and let us do the delivery to you.</div>
+                        <h3><a href="services-single.php">Order Products</a></h3>
+                        <div class="text">With us, you get an easier way of purchasing your agricultural products.</div>
                         <a href="shop.php" class="read-more">Read More</a>
                     </div>
                 </div>
@@ -227,8 +226,8 @@
                     	<div class="icon-box">
                         	<span class="icon flaticon-award"></span>
                         </div>
-                        <h3><a href="services-single.php">Quality Assurance</a></h3>
-                        <div class="text">We bring to you the best of quality products there is in the market, at the best price around and from legitimate suppliers.</div>
+                        <h3><a href="services-single.php">Quality agricultural Products</a></h3>
+                        <div class="text">We bring the best african agricultural products from various regions to suit your needs and desires.</div>
                         <a href="services-single.php" class="read-more">Read More</a>
                     </div>
                 </div>
@@ -244,7 +243,7 @@
         	<!--Sec Title Two-->
             <div class="sec-title-two">
             	<div class="title">Our Services</div>
-                <h2>OUR INDUSTRY TARGET</h2>
+                <h2>OUR COMPANY TARGET</h2>
             </div>
             <div class="row clearfix">
 
@@ -259,7 +258,7 @@
                         </div>
                         <div class="lower-box">
                         	<h3><a href="services-single.php">Agricultural Processing</a></h3>
-                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
+                            <div class="text">Get easy way to get your agricultural products harvested.</div>
                         </div>
                     </div>
                 </div>
@@ -268,14 +267,14 @@
             	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image-box">
-                        	<img src="images/resource/service-2.jpg" alt="" />
+                        	<img src="images/resource/product13_370x239.jpg" alt="" />
                             <div class="overlay-box">
-                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
+                            	<a href="images/resource/product13_370x239.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
                             </div>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="services-single.php">Chemical Research</a></h3>
-                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
+                        	<h3><a href="services-single.php">Animal Products</a></h3>
+                            <div class="text">We all appreciate what nature, through our animals, give to us.</div>
                         </div>
                     </div>
                 </div>
@@ -284,186 +283,186 @@
             	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box">
                     	<div class="image-box">
-                        	<img src="images/resource/service-3.jpg" alt="" />
+                        	<img src="images/resource/agricultural-products-wholesale-south-africa1_370x239.jpg" alt="" />
                             <div class="overlay-box">
-                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
+                            	<a href="images/resource/agricultural-products-wholesale-south-africa1_370x239.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
                             </div>
                         </div>
                         <div class="lower-box">
-                        	<h3><a href="services-single.php">Material Engineering</a></h3>
-                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
+                        	<h3><a href="services-single.php">Marketing Agricultural Products</a></h3>
+                            <div class="text">We provide sales for all the farm products to our customers.</div>
                         </div>
                     </div>
                 </div>
 
                 <!--Services Block Two-->
-            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image-box">
-                        	<img src="images/resource/service-4.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="lower-box">
-                        	<h3><a href="services-single.php">Mechanical Engineering</a></h3>
-                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
-                        </div>
-                    </div>
-                </div>
+<!--            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">-->
+<!--                	<div class="inner-box">-->
+<!--                    	<div class="image-box">-->
+<!--                        	<img src="images/resource/service-4.jpg" alt="" />-->
+<!--                            <div class="overlay-box">-->
+<!--                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="lower-box">-->
+<!--                        	<h3><a href="services-single.php">Mechanical Engineering</a></h3>-->
+<!--                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
 
                 <!--Services Block Two-->
-            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image-box">
-                        	<img src="images/resource/service-5.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="lower-box">
-                        	<h3><a href="services-single.php">Petroleum and Gas</a></h3>
-                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
-                        </div>
-                    </div>
-                </div>
+<!--            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">-->
+<!--                	<div class="inner-box">-->
+<!--                    	<div class="image-box">-->
+<!--                        	<img src="images/resource/service-5.jpg" alt="" />-->
+<!--                            <div class="overlay-box">-->
+<!--                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="lower-box">-->
+<!--                        	<h3><a href="services-single.php">Petroleum and Gas</a></h3>-->
+<!--                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
 
                 <!--Services Block Two-->
-            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="image-box">
-                        	<img src="images/resource/service-6.jpg" alt="" />
-                            <div class="overlay-box">
-                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="lower-box">
-                        	<h3><a href="services-single.php">Power and Energy</a></h3>
-                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>
-                        </div>
-                    </div>
-                </div>
+<!--            	<div class="services-block-two col-md-4 col-sm-6 col-xs-12">-->
+<!--                	<div class="inner-box">-->
+<!--                    	<div class="image-box">-->
+<!--                        	<img src="images/resource/service-6.jpg" alt="" />-->
+<!--                            <div class="overlay-box">-->
+<!--                            	<a href="images/resource/service-1.jpg" class="lightbox-image" data-fancybox-group="services-block"><span class="icon flaticon-plus"></span></a>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="lower-box">-->
+<!--                        	<h3><a href="services-single.php">Power and Energy</a></h3>-->
+<!--                            <div class="text">Graphical user interface learning curve user experience agile development responsive web design.</div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
 
             </div>
         </div>
-        <div class="right-icon"><span class="icon flaticon-cogwheel-1"></span></div>
+<!--        <div class="right-icon"><span class="icon flaticon-cogwheel-1"></span></div>-->
     </section>
     <!--End Services Section Two-->
 
     <!--Fact Counter-->
-    <section class="counter-section" style="background-image:url(images/background/1.jpg)">
-    	<div class="auto-container">
-
-            <div class="fact-counter">
-                <div class="row clearfix">
-
-                    <!--Column-->
-                    <div class="column counter-column col-md-3 col-sm-6 col-xs-12">
-                        <div class="inner">
-                        	<div class="icon-box"><span class="icon flaticon-people-3"></span></div>
-                            <div class="count-outer">
-                                <span class="count-text" data-speed="2000" data-stop="150">0</span>
-                            </div>
-                            <h4 class="counter-title">TEAM WORKERS</h4>
-                        </div>
-                    </div>
-
-                    <!--Column-->
-                    <div class="column counter-column col-md-3 col-sm-6 col-xs-12">
-                        <div class="inner">
-                        	<div class="icon-box"><span class="icon flaticon-wrench"></span></div>
-                            <div class="count-outer">
-                                <span class="count-text" data-speed="3000" data-stop="1246">0</span>
-                            </div>
-                            <h4 class="counter-title">PROJECTS DONE</h4>
-                        </div>
-                    </div>
-
-                    <!--Column-->
-                    <div class="column counter-column col-md-3 col-sm-6 col-xs-12">
-                        <div class="inner">
-                        	<div class="icon-box"><span class="icon flaticon-idea"></span></div>
-                            <div class="count-outer">
-                                <span class="count-text" data-speed="2500" data-stop="348">0</span>
-                            </div>
-                            <h4 class="counter-title">PROJECT IDEAS</h4>
-                        </div>
-                    </div>
-
-                    <!--Column-->
-                    <div class="column counter-column col-md-3 col-sm-6 col-xs-12">
-                        <div class="inner">
-                        	<div class="icon-box"><span class="icon flaticon-cup"></span></div>
-                            <div class="count-outer">
-                                <span class="count-text" data-speed="2000" data-stop="112">0</span>
-                            </div>
-                            <h4 class="counter-title">AWARDS WON</h4>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </section>
+<!--    <section class="counter-section" style="background-image:url(images/background/1.jpg)">-->
+<!--    	<div class="auto-container">-->
+<!---->
+<!--            <div class="fact-counter">-->
+<!--                <div class="row clearfix">-->
+<!---->
+<!--                    <!--Column-->
+<!--                    <div class="column counter-column col-md-3 col-sm-6 col-xs-12">-->
+<!--                        <div class="inner">-->
+<!--                        	<div class="icon-box"><span class="icon flaticon-people-3"></span></div>-->
+<!--                            <div class="count-outer">-->
+<!--                                <span class="count-text" data-speed="2000" data-stop="150">0</span>-->
+<!--                            </div>-->
+<!--                            <h4 class="counter-title">TEAM WORKERS</h4>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!---->
+<!--                    <!--Column-->
+<!--                    <div class="column counter-column col-md-3 col-sm-6 col-xs-12">-->
+<!--                        <div class="inner">-->
+<!--                        	<div class="icon-box"><span class="icon flaticon-wrench"></span></div>-->
+<!--                            <div class="count-outer">-->
+<!--                                <span class="count-text" data-speed="3000" data-stop="1246">0</span>-->
+<!--                            </div>-->
+<!--                            <h4 class="counter-title">PROJECTS DONE</h4>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!---->
+<!--                    <!--Column-->
+<!--                    <div class="column counter-column col-md-3 col-sm-6 col-xs-12">-->
+<!--                        <div class="inner">-->
+<!--                        	<div class="icon-box"><span class="icon flaticon-idea"></span></div>-->
+<!--                            <div class="count-outer">-->
+<!--                                <span class="count-text" data-speed="2500" data-stop="348">0</span>-->
+<!--                            </div>-->
+<!--                            <h4 class="counter-title">PROJECT IDEAS</h4>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!---->
+<!--                    <!--Column-->
+<!--                    <div class="column counter-column col-md-3 col-sm-6 col-xs-12">-->
+<!--                        <div class="inner">-->
+<!--                        	<div class="icon-box"><span class="icon flaticon-cup"></span></div>-->
+<!--                            <div class="count-outer">-->
+<!--                                <span class="count-text" data-speed="2000" data-stop="112">0</span>-->
+<!--                            </div>-->
+<!--                            <h4 class="counter-title">AWARDS WON</h4>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--        </div>-->
+<!--    </section>-->
     <!--End Fact Counter-->
 
     <!--Team Section-->
-    <section class="team-section">
-    	<div class="auto-container">
-        	<!--Sec Title Two-->
-            <div class="sec-title-two">
-            	<div class="title">Our Specialists</div>
-                <h2>EXPERT TEAM</h2>
-            </div>
-
-            <div class="row clearfix">
-            	<!--Team Member-->
-            	<div class="team-member col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<figure class="image wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        	<img src="images/resource/rsz_kevin.jpg" alt="" />
-                        </figure>
-                        <!--Lower Box-->
-                        <div class="lower-box">
-                        	<h3><a href="#">Kevin Wafula</a></h3>
-                            <div class="designation">ICT Officer</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Team Member-->
-            	<div class="team-member col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<figure class="image wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        	<img src="images/resource/rsz_noreen.jpg" alt="" />
-                        </figure>
-                        <!--Lower Box-->
-                        <div class="lower-box">
-                        	<h3><a href="#">Noureen Beauty</a></h3>
-                            <div class="designation">CEO</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Team Member-->
-            	<div class="team-member col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<figure class="image wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        	<img src="images/resource/team-3.jpg" alt="" />
-                        </figure>
-                        <!--Lower Box-->
-                        <div class="lower-box">
-                        	<h3><a href="#">Grego Anderson</a></h3>
-                            <div class="designation">Automation Engineer</div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <div class="big-icon"><span class="icon flaticon-people-3"></span></div>
-        </div>
-    </section>
+<!--    <section class="team-section">-->
+<!--    	<div class="auto-container">-->
+<!--        	<!--Sec Title Two-->
+<!--            <div class="sec-title-two">-->
+<!--            	<div class="title">Our Specialists</div>-->
+<!--                <h2>EXPERT TEAM</h2>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="row clearfix">-->
+<!--            	<!--Team Member-->
+<!--            	<div class="team-member col-md-4 col-sm-6 col-xs-12">-->
+<!--                	<div class="inner-box">-->
+<!--                    	<figure class="image wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">-->
+<!--                        	<img src="images/resource/rsz_kevin.jpg" alt="" />-->
+<!--                        </figure>-->
+<!--                        <!--Lower Box-->
+<!--                        <div class="lower-box">-->
+<!--                        	<h3><a href="#">Kevin Wafula</a></h3>-->
+<!--                            <div class="designation">ICT Officer</div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                <!--Team Member-->
+<!--            	<div class="team-member col-md-4 col-sm-6 col-xs-12">-->
+<!--                	<div class="inner-box">-->
+<!--                    	<figure class="image wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">-->
+<!--                        	<img src="images/resource/rsz_noreen.jpg" alt="" />-->
+<!--                        </figure>-->
+<!--                        <!--Lower Box-->
+<!--                        <div class="lower-box">-->
+<!--                        	<h3><a href="#">Noureen Beauty</a></h3>-->
+<!--                            <div class="designation">CEO</div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!--                <!--Team Member-->
+<!--<!--            	<div class="team-member col-md-4 col-sm-6 col-xs-12">-->
+<!--<!--                	<div class="inner-box">-->
+<!--<!--                    	<figure class="image wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">-->
+<!--<!--                        	<img src="images/resource/team-3.jpg" alt="" />-->
+<!--<!--                        </figure>-->
+<!--<!--                        <!--Lower Box-->
+<!--<!--                        <div class="lower-box">-->
+<!--<!--                        	<h3><a href="#">Grego Anderson</a></h3>-->
+<!--<!--                            <div class="designation">Automation Engineer</div>-->
+<!--<!--                        </div>-->
+<!--<!--                    </div>-->
+<!--<!--                </div>-->
+<!---->
+<!--            </div>-->
+<!--<!--            <div class="big-icon"><span class="icon flaticon-people-3"></span></div>-->
+<!--        </div>-->
+<!--    </section>-->
     <!--End Team Section-->
 
     <!--Project Carousel Section-->
@@ -611,12 +610,12 @@
                             <!--Content Column-->
                             <div class="content-column col-md-8 col-sm-8 col-xs-12">
                             	<div class="inner-box">
-                            		<h3><a href="blog-single.php">Material Suppliers from North America</a></h3>
+                            		<h3><a href="blog-single.php">Agricultural Suppliers across East Africa</a></h3>
                                     <ul class="post-meta">
                                         <li>By <span>Moses the guy</span></li>
                                         <li class="date">Nov 11, 2016</li>
                                     </ul>
-                                    <div class="text">Startup equity interaction design scrum project alpha prototype management branding business.</div>
+                                    <div class="text">Startup equity interaction business is enourmous and being explored highly.</div>
                                     <a href="blog-single.php" class="read-more">Read More</a>
                                 </div>
                             </div>
@@ -637,39 +636,39 @@
 
                     	<div class="inner-column col-md-4 col-sm-6 col-xs-12">
                         	<div class="client-box">
-                            	<a href="#"><img src="images/clients/1.png" alt="" /></a>
+                            	<a href="#"><img src="images/clients/KenyaLogo_200x80.jpg" alt="" /></a>
                             </div>
                         </div>
 
-                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">
-                        	<div class="client-box">
-                            	<a href="#"><img src="images/clients/2.png" alt="" /></a>
-                            </div>
-                        </div>
-
-                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">
-                        	<div class="client-box">
-                            	<a href="#"><img src="images/clients/3.png" alt="" /></a>
-                            </div>
-                        </div>
-
-                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">
-                        	<div class="client-box">
-                            	<a href="#"><img src="images/clients/4.png" alt="" /></a>
-                            </div>
-                        </div>
-
-                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">
-                        	<div class="client-box">
-                            	<a href="#"><img src="images/clients/5.png" alt="" /></a>
-                            </div>
-                        </div>
-
-                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">
-                        	<div class="client-box">
-                            	<a href="#"><img src="images/clients/6.png" alt="" /></a>
-                            </div>
-                        </div>
+<!--                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">-->
+<!--                        	<div class="client-box">-->
+<!--                            	<a href="#"><img src="images/clients/2.png" alt="" /></a>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">-->
+<!--                        	<div class="client-box">-->
+<!--                            	<a href="#"><img src="images/clients/3.png" alt="" /></a>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">-->
+<!--                        	<div class="client-box">-->
+<!--                            	<a href="#"><img src="images/clients/4.png" alt="" /></a>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">-->
+<!--                        	<div class="client-box">-->
+<!--                            	<a href="#"><img src="images/clients/5.png" alt="" /></a>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="inner-column col-md-4 col-sm-6 col-xs-12">-->
+<!--                        	<div class="client-box">-->
+<!--                            	<a href="#"><img src="images/clients/6.png" alt="" /></a>-->
+<!--                            </div>-->
+<!--                        </div>-->
 
                     </div>
 

@@ -34,7 +34,7 @@
                             <span class="icon flaticon-e-mail-envelope"></span>
                         </div>
                         <div class="text">Mail Us</div>
-                        <h3>info@strategiclogistic.com</h3>
+                        <h3>info@strategiclogisticskenya.com</h3>
                     </div>
                 </div>
 
@@ -56,7 +56,7 @@
                                 <h2>ABOUT STRATEGIC LOGISTIC</h2>
                                 <div class="widget-content">
                                     <div class="text">
-                                        <p>We offer the best quality of service there is, keeping the interest of the customer first and delivering to customer standards.</p>
+                                        <p>We offer the best quality of service there is, keeping the interest of the customer first and delivering to customer satisfaction.</p>
                                     </div>
                                 </div>
                                 <div class="social-links-two">
@@ -98,12 +98,12 @@
                                 <h2>TWITTER FEED</h2>
                                 <div class="widget-content">
                                     <div class="feed">
-                                        <div class="text"><span class="icon fa fa-twitter"></span> Machinery evolution is making the world spin quick, its with this that we can make ...</div>
+                                        <div class="text"><span class="icon fa fa-twitter"></span> Agriculture evolution is making the world spin quick, its with this that we can make ...</div>
                                         <span class="month"><a href="https://goo.gl/LJPh2b">https://goo.gl/LJPh2b</a></span>
                                         <div class="date-box">Mar  25, 2017</div>
                                     </div>
                                     <div class="feed">
-                                        <div class="text"><span class="icon fa fa-twitter"></span> Research & development seed round busines interaction advisor success...</div>
+                                        <div class="text"><span class="icon fa fa-twitter"></span> Research & development seed round business interaction advisor success...</div>
                                         <span class="month"><a href="https://goo.gl/LJPh2b">https://t.co/NgHF6TL31Q</a></span>
                                         <div class="date-box">Nov  07, 2016</div>
                                     </div>
@@ -116,9 +116,9 @@
                             <div class="footer-widget subscribe-widget">
                                 <h2>NEWSLETTER</h2>
                                 <div class="widget-content">
-                                    <div class="text">Subcribe with us to receive updates on our products, services and promotions.</div>
+                                    <div class="text">Subcribe with us to receive updates on our agricultural products, services and promotions.</div>
                                     <div class="newsletter-form">
-                                        <form method="post" action="http://wp.hostlin.com/nijmegan/contact.html">
+                                        <form method="post" action="">
                                             <div class="form-group">
                                                 <input type="email" name="email" value="" placeholder="Enter your email.." required>
                                                 <button type="submit" class="theme-btn"><span class="fa fa-long-arrow-right"></span></button>
@@ -139,7 +139,7 @@
 
     <!--Footer Bottom-->
     <div class="footer-bottom">
-        <div class="auto-container"><div class="copyright">Copyright &copy; 2017 StrategicLogistic. All Rights Reserved</div></div>
+        <div class="auto-container"><div class="copyright">Copyright &copy; 2017 RyleTech. All Rights Reserved</div></div>
     </div>
 
 </footer>

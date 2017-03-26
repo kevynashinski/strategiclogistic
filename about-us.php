@@ -1,7 +1,7 @@
 <? include "header.php";?>
 
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url(images/background/DSC04084crop2_1920x813.jpg);">
     	<div class="auto-container">
         	<div class="row clearfix">
             	<!--Title -->
@@ -26,7 +26,7 @@
         	<div class="row clearfix">
             	<!--Content Column-->
             	<div class="content-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="icon-box"><span class="icon flaticon-helmet"></span></div>
+<!--                	<div class="icon-box"><span class="icon flaticon-helmet"></span></div>-->
                 	<div class="inner-box">
                     	<!--Sec Title-->
                     	<div class="sec-title">
@@ -34,14 +34,18 @@
                             <h2>ABOUT <span>STRATEGIC LOGISTICS</span></h2>
                         </div>
                         <div class="text">
-                            <p class="dark-text">A Kenyan based company that aims at solving real-life problems that involves machineries. </p>
-                            <p>We provide solutions for purchase of high quality resilient trucks, long vehicles, and any other machinery your interested in.
-                                We also deliver the products to your door step, in a faster and efficient way.</p>
+                            <p class="dark-text">A Kenyan based company that aims at solving real-life problems that involves agriculture. </p>
+                            <p>We provide solutions for purchase of high quality seedlings to trees, crops and animal products.</p>
                         </div>
 <!--                        <a href="#" class="theme-btn btn-style-two">Read More</a>-->
-                        <div>
-                            <p>Account No. <b>14135202</b></p>
-                            <p>First Community Bank Eastleigh Branch</p>
+                        <div class="sec-title">
+                            <h3><u><b>ACCOUNT INFO:</b></u></h3>
+                            <p><b>Account Name:</b> Strategic Logistics Ken Investment Limited. <br>
+                                <b>Account No:</b> 14135201<br>
+                                <b>Bank:</b> First Community Bank. <br>
+                                <b>Branch Name:</b> Eastleigh Branch<br>
+                                <b>USD Account No: </b> 14135202
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -50,7 +54,7 @@
                 	<!--video-box-->
                 	<div class="video-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<figure class="image">
-                        	<img src="images/resource/about.jpg" alt="" />
+                        	<img src="images/resource/product04_599x384.jpg" alt="" />
                         </figure>
                         <a href="https://www.youtube.com/watch?v=0e1uTwSRGgI" class="lightbox-image overlay-box"><span class="flaticon-arrows-5"></span></a>
                     </div>
@@ -68,10 +72,10 @@
             <div class="services-block col-md-4 col-sm-6 col-xs-12">
                 <div class="inner-box">
                     <div class="icon-box">
-                        <span class="icon flaticon-wrench"></span>
+                        <span class="icon flaticon-phone-call"></span>
                     </div>
-                    <h3><a href="services-single.php">Creditable Integrity</a></h3>
-                    <div class="text">Interaction design business-to-business low hanging fruit bootstrapping startup launch party user experience bandwidth web design.</div>
+                    <h3><a href="services-single.php">Consultancy Services</a></h3>
+                    <div class="text">You can always reach out to us when you need any advice concerning all your agricultural problems.</div>
                     <a href="services-single.php" class="read-more">Read More</a>
                 </div>
             </div>
@@ -82,8 +86,8 @@
                     <div class="icon-box">
                         <span class="icon flaticon-shopping-cart"></span>
                     </div>
-                    <h3><a href="services-single.php">Efficient Purchases</a></h3>
-                    <div class="text">Get in touch with us over a machinery product that your interested in and let us do the delivery to you.</div>
+                    <h3><a href="services-single.php">Order Products</a></h3>
+                    <div class="text">With us, you get an easier way of purchasing your agricultural products.</div>
                     <a href="shop.php" class="read-more">Read More</a>
                 </div>
             </div>
@@ -94,8 +98,8 @@
                     <div class="icon-box">
                         <span class="icon flaticon-award"></span>
                     </div>
-                    <h3><a href="services-single.php">Quality Assurance</a></h3>
-                    <div class="text">We bring to you the best of quality products there is in the market, at the best price around and from legitimate suppliers.</div>
+                    <h3><a href="services-single.php">Quality agricultural Products</a></h3>
+                    <div class="text">We bring the best african agricultural products from various regions to suit your needs and desires.</div>
                     <a href="services-single.php" class="read-more">Read More</a>
                 </div>
             </div>
@@ -105,83 +109,26 @@
 </section>
 <!--End Services Section-->
 
-    <!--Team Section-->
-    <section class="team-section">
-    	<div class="auto-container">
-        	<!--Sec Title Two-->
-            <div class="sec-title-two">
-            	<div class="title">Our Specialists</div>
-                <h2>EXPERT TEAM</h2>
-            </div>
-
-            <div class="row clearfix">
-            	<!--Team Member-->
-            	<div class="team-member col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<figure class="image wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        	<img src="images/resource/team-1.jpg" alt="" />
-                        </figure>
-                        <!--Lower Box-->
-                        <div class="lower-box">
-                        	<h3><a href="#">John Harris</a></h3>
-                            <div class="designation">Automation Engineer</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Team Member-->
-            	<div class="team-member col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="300ms" data-wow-duration="1500ms">
-                    	<figure class="image">
-                        	<img src="images/resource/team-2.jpg" alt="" />
-                        </figure>
-                        <!--Lower Box-->
-                        <div class="lower-box">
-                        	<h3><a href="#">Mark Wilton</a></h3>
-                            <div class="designation">Welder</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Team Member-->
-            	<div class="team-member col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<figure class="image wow fadeIn" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        	<img src="images/resource/team-3.jpg" alt="" />
-                        </figure>
-                        <!--Lower Box-->
-                        <div class="lower-box">
-                        	<h3><a href="#">Kevin Anderson</a></h3>
-                            <div class="designation">Automation Engineer</div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <div class="big-icon"><span class="icon flaticon-people-3"></span></div>
-        </div>
-    </section>
-    <!--End Team Section-->
-
     <!--Sponsors Section-->
     <section class="sponsors-section">
     	<div class="auto-container">
         	<div class="carousel-outer">
-                <!--Sponsors Slider-->
-                <ul class="sponsors-carousel owl-carousel owl-theme">
-                    <li><div class="image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/11.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/12.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/11.png" alt=""></a></div></li>
-                    <li><div class="image-box"><a href="#"><img src="images/clients/12.png" alt=""></a></div></li>
-                </ul>
+                Sponsors:
+<!--                Sponsors Slider-->
+<!--                <ul class="sponsors-carousel owl-carousel owl-theme">-->
+                    <li><div class="image-box"><a href="#"><img src="images/clients/KenyaLogo_200x80.jpg" alt=""></a></div></li>
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></div></li>-->
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></div></li>-->
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></div></li>-->
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/11.png" alt=""></a></div></li>-->
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/12.png" alt=""></a></div></li>-->
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></div></li>-->
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></div></li>-->
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></div></li>-->
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></div></li>-->
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/11.png" alt=""></a></div></li>-->
+<!--                    <li><div class="image-box"><a href="#"><img src="images/clients/12.png" alt=""></a></div></li>-->
+<!--                </ul>-->
             </div>
     	</div>
     </section>

@@ -1,7 +1,7 @@
 <? include "header.php";?>
 
 <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url(images/background/DSC04084crop2_1920x813.jpg);">
     	<div class="auto-container">
         	<div class="row clearfix">
             	<!--Title -->
@@ -11,8 +11,8 @@
                 <!--Bread Crumb -->
                 <div class="breadcrumb-column col-md-6 col-sm-6 col-xs-12">
                     <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
-                        <li class="active">Services Single</li>
+                        <li><a href="./">Home</a></li>
+                        <li class="active">Service</li>
                     </ul>
                 </div>
             </div>
@@ -37,20 +37,20 @@
                             <!--List-->
                             <ul class="list">
                                 <li><a href="#"><span class="icon flaticon-shape"></span>Agricultural Processing</a></li>
-                                <li><a href="#"><span class="icon flaticon-atomic"></span>Chemical Research</a></li>
-                                <li><a href="#"><span class="icon flaticon-settings-1"></span>Material Engineering</a></li>
-                                <li><a href="#"><span class="icon flaticon-user-3"></span>Mechanical Engineering</a></li>
-                                <li><a href="#"><span class="icon flaticon-raindrop"></span>Petroleum and Gas</a></li>
-                                <li><a href="#"><span class="icon flaticon-ecological"></span>Power and Energy</a></li>
+<!--                                <li><a href="#"><span class="icon flaticon-atomic"></span>Chemical Research</a></li>-->
+<!--                                <li><a href="#"><span class="icon flaticon-settings-1"></span>Material Engineering</a></li>-->
+<!--                                <li><a href="#"><span class="icon flaticon-user-3"></span>Mechanical Engineering</a></li>-->
+<!--                                <li><a href="#"><span class="icon flaticon-raindrop"></span>Petroleum and Gas</a></li>-->
+                                <li><a href="#"><span class="icon flaticon-shopping-cart"></span>Farm Produce Marketing</a></li>
                             </ul>
                          </div>
 
                         <!--Brochure-->
-                        <div class="sidebar-widget sidebar-brochure">
-                        	<div class="brouchure">
-                            	<a href="#"><span class="icon flaticon-file"></span> Download Brochure</a>
-                            </div>
-                        </div>
+<!--                        <div class="sidebar-widget sidebar-brochure">-->
+<!--                        	<div class="brouchure">-->
+<!--                            	<a href="#"><span class="icon flaticon-file"></span> Download Brochure</a>-->
+<!--                            </div>-->
+<!--                        </div>-->
 
                         <!--Services Brochure-->
                         <div class="sidebar-widget sidebar-advice" style="background-image:url(images/resource/advice.jpg)">
@@ -64,16 +64,16 @@
                 <!--Content Side-->
                 <div class="content-side col-lg-9 col-md-8 col-sm-12 col-xs-12">
                 	<div class="services-detail">
-                    	<h2>CHEMICAL RESEARCH</h2>
+                    	<h2>Agricultural $ Farm Produce Marketing</h2>
                         <div class="text">
-                        	<p class="dark-text">Stock metrics release vesting period stealth android virality. Business plan mass market A/B testing product management android backing gamification equity paradigm shift ownership with traction validation investor.</p>
+                        	<p class="dark-text">We explorer the whole of Africa in search of the best, high quality products that we can find and bring them to customers to suit there needs.</p>
                             <figure>
-                                <img src="images/resource/services-single.jpg" alt="" />
+                                <img src="images/resource/agricultural-products-wholesale-south-africa1_1_862x442.jpg" alt="" />
                             </figure>
-                            <p>Crowdsource ecosystem niche market sales seed money funding infrastructure prototype scrum project series A financing early adopters long tail assets bandwidth. First mover advantage user experience customer ecosystem incubator marketing graphical user interface niche market. Partnership beta launch party low hanging fruit seed money alpha business plan interaction design agile development influencer focus backing leverage. Incubator rockstar ramen leverage influencer growth hacking niche market responsive web design.</p>
+                            <p>We provide the best products at the best prive from the best suppliers and company.</p>
 
-                            <h2>TECHNOLOGY LICENSING</h2>
-                            <p>Release virality crowdsource lean startup freemium. Partnership deployment ramen niche market series A financing rockstar direct mailing channels product management conversion iPad influencer non-disclosure agreement buyer. Leverage entrepreneur traction deployment angel investor facebook investor twitter metrics low hanging fruit ramen conversion alpha buzz.</p>
+<!--                            <h2>TECHNOLOGY LICENSING</h2>-->
+<!--                            <p>Release virality crowdsource lean startup freemium. Partnership deployment ramen niche market series A financing rockstar direct mailing channels product management conversion iPad influencer non-disclosure agreement buyer. Leverage entrepreneur traction deployment angel investor facebook investor twitter metrics low hanging fruit ramen conversion alpha buzz.</p>-->
                         </div>
 
                         <!--Accordion Box-->
@@ -81,27 +81,29 @@
 
                             <!--Block-->
                             <li class="accordion block active-block">
-                                <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>Perform Value Engineering</div>
+                                <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>Suppliers</div>
                                 <div class="acc-content">
-                                    <div class="content"><p>Buzz partner network iPad incubator virality accelerator infrastructure leverage beta sales deployment product management. Seed money interaction design crowdfunding customer entrepreneur hackathon infrastructure angel investor virality mass market launch party accelerator scrum project return on investment.</p></div>
+                                    <div class="content"><p>Kenya Agriculture Co-operation.
+                                        <br>East Africa Farm Produce.</p>
+                                    </div>
                                 </div>
                             </li>
 
                             <!--Block-->
-                            <li class="accordion block">
-                                <div class="acc-btn active"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>Project Scheduling And Management</div>
-                                <div class="acc-content current">
-                                    <div class="content"><p>Buzz partner network iPad incubator virality accelerator infrastructure leverage beta sales deployment product management. Seed money interaction design crowdfunding customer entrepreneur hackathon infrastructure angel investor virality mass market launch party accelerator scrum project return on investment.</p></div>
-                                </div>
-                            </li>
+<!--                            <li class="accordion block">-->
+<!--                                <div class="acc-btn active"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>Project Scheduling And Management</div>-->
+<!--                                <div class="acc-content current">-->
+<!--                                    <div class="content"><p>Buzz partner network iPad incubator virality accelerator infrastructure leverage beta sales deployment product management. Seed money interaction design crowdfunding customer entrepreneur hackathon infrastructure angel investor virality mass market launch party accelerator scrum project return on investment.</p></div>-->
+<!--                                </div>-->
+<!--                            </li>-->
 
                             <!--Block-->
-                            <li class="accordion block">
-                                <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>Inspections and Occupancy Permit</div>
-                                <div class="acc-content">
-                                    <div class="content"><p>Buzz partner network iPad incubator virality accelerator infrastructure leverage beta sales deployment product management. Seed money interaction design crowdfunding customer entrepreneur hackathon infrastructure angel investor virality mass market launch party accelerator scrum project return on investment.</p></div>
-                                </div>
-                            </li>
+<!--                            <li class="accordion block">-->
+<!--                                <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-angle-down"></span> </div>Inspections and Occupancy Permit</div>-->
+<!--                                <div class="acc-content">-->
+<!--                                    <div class="content"><p>Buzz partner network iPad incubator virality accelerator infrastructure leverage beta sales deployment product management. Seed money interaction design crowdfunding customer entrepreneur hackathon infrastructure angel investor virality mass market launch party accelerator scrum project return on investment.</p></div>-->
+<!--                                </div>-->
+<!--                            </li>-->
 
                         </ul>
                         <!--End Accordion Box-->

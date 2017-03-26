@@ -1,8 +1,7 @@
-
 <? include "header.php"; ?>
 
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url(images/background/DSC04084crop2_1920x813.jpg);">
     	<div class="auto-container">
         	<div class="row clearfix">
             	<!--Title -->
@@ -86,7 +85,7 @@
                         <li><div class="icon"><span class="flaticon-location-pin"></span></div>Moi Avenue, Nairobi, Kenya</li>
                         <li><div class="icon"><span class="flaticon-smartphone-1"></span></div>+254 722 639501</li>
                         <li><div class="icon"><span class="flaticon-smartphone-1"></span></div>+254 722 295159</li>
-                        <li><div class="icon"><span class="flaticon-e-mail-envelope"></span></div>info@stategiclogistic.com</li>
+                        <li><div class="icon"><span class="flaticon-e-mail-envelope"></span></div>info@strategiclogisticskenya.com</li>
                         <li><div class="icon"><span class="flaticon-clock"></span></div>Mon - Sat: 9am - 5pm</li>
                     </ul>
 

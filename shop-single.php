@@ -1,7 +1,7 @@
 <? include "header.php";?>
 
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url(images/background/DSC04084crop2_1920x813.jpg);">
     	<div class="auto-container">
         	<div class="row clearfix">
             	<!--Title -->

@@ -34,7 +34,7 @@
                 <!--Top Left-->
                 <div class="top-left pull-left">
                     <ul class="links-nav clearfix">
-                        <li>Kenya’s Leading Machinery Solution Provider</li>
+                        <li>Kenya’s Leading Agricultural Products Provider</li>
                     </ul>
                 </div>
 
@@ -129,16 +129,16 @@
 <!--                                        </li>-->
 <!--                                    </ul>-->
                                 </li>
-                                <li class="dropdown"><a href="#">Services</a>
-                                    <ul>
-                                        <li><a href="services.php">Our Services</a></li>
-                                        <li><a href="services-single.php">Agricultural Processing</a></li>
-                                        <li><a href="services-single.php">Chemical Research</a></li>
-                                        <li><a href="services-single.php">Material Engineering</a></li>
-                                        <li><a href="services-single.php">Mechanical Engineering</a></li>
-                                        <li><a href="services-single.php">Petroleum and Gas</a></li>
-                                        <li><a href="services-single.php">Power and Energy</a></li>
-                                    </ul>
+                                <li ><a href="services.php">Services</a>
+<!--                                    <ul>-->
+<!--                                        <li><a href="services.php">Our Services</a></li>-->
+<!--                                        <li><a href="services-single.php">Agricultural Processing</a></li>-->
+<!--                                        <li><a href="services-single.php">Chemical Research</a></li>-->
+<!--                                        <li><a href="services-single.php">Material Engineering</a></li>-->
+<!--                                        <li><a href="services-single.php">Mechanical Engineering</a></li>-->
+<!--                                        <li><a href="services-single.php">Petroleum and Gas</a></li>-->
+<!--                                        <li><a href="services-single.php">Power and Energy</a></li>-->
+<!--                                    </ul>-->
                                 </li>
 <!--                                <li class="dropdown"><a href="#">Project</a>-->
 <!--                                    <ul>-->
@@ -154,7 +154,7 @@
 <!--                                        <li><a href="checkout.html">Checkout</a></li>-->
 <!--                                    </ul>-->
                                 </li>
-                                <li ><a href="blog-grid.php">Blog</a>
+                                <li ><a href="#">Blog</a>
 <!--                                    <ul>-->
 <!--                                        <li><a href="blog-grid.php">Our Blog</a></li>-->
 <!--                                        <li><a href="blog-single.php">Blog Detail</a></li>-->
@@ -221,16 +221,16 @@
 <!--                                        <li><a href="team.html">Our Team</a></li>-->
 <!--                                    </ul>-->
                                 </li>
-                                <li class="dropdown"><a href="#">Services</a>
-                                    <ul>
-                                        <li><a href="services.php">Our Services</a></li>
-                                        <li><a href="services-single.php">Agricultural Processing</a></li>
-                                        <li><a href="services-single.php">Chemical Research</a></li>
-                                        <li><a href="services-single.php">Material Engineering</a></li>
-                                        <li><a href="services-single.php">Mechanical Engineering</a></li>
-                                        <li><a href="services-single.php">Petroleum and Gas</a></li>
-                                        <li><a href="services-single.php">Power and Energy</a></li>
-                                    </ul>
+                                <li ><a href="services.php">Services</a>
+<!--                                    <ul>-->
+<!--                                        <li><a href="services.php">Our Services</a></li>-->
+<!--                                        <li><a href="services-single.php">Agricultural Processing</a></li>-->
+<!--                                        <li><a href="services-single.php">Chemical Research</a></li>-->
+<!--                                        <li><a href="services-single.php">Material Engineering</a></li>-->
+<!--                                        <li><a href="services-single.php">Mechanical Engineering</a></li>-->
+<!--                                        <li><a href="services-single.php">Petroleum and Gas</a></li>-->
+<!--                                        <li><a href="services-single.php">Power and Energy</a></li>-->
+<!--                                    </ul>-->
                                 </li>
 <!--                                <li class="dropdown"><a href="#">Project</a>-->
 <!--                                    <ul>-->
