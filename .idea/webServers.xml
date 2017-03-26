@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="60d51a92-3d89-4b88-948d-7a433fcb92ec" name="ftp.strategiclogisticskenya.com" url="http://ftp.strategiclogisticskenya.com">
+        <fileTransfer host="ftp.strategiclogisticskenya.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

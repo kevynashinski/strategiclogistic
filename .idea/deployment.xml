@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ftp.strategiclogisticskenya.com" uploadOnCheckin="60d51a92-3d89-4b88-948d-7a433fcb92ec">
+    <serverData>
+      <paths name="ftp.strategiclogisticskenya.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="ftp.strategiclogisticskenya.com" />
+  </component>
+</project>

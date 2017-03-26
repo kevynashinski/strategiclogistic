@@ -309,15 +309,15 @@
                 </div>
 
                 <!--Sidebar Side-->
-            	<div class="sidebar-side pull-left col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                	<div class="sidebar shop-sidebar">
+                <div class="sidebar-side pull-left col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <div class="sidebar shop-sidebar">
 
                         <!--Search Box-->
                         <div class="sidebar-widget search-box">
-                        	<div class="sidebar-title">
+                            <div class="sidebar-title">
                                 <h2>SEARCH PRODUCTS</h2>
                             </div>
-                            <form method="post" action="http://wp.hostlin.com/nijmegan/shop.html">
+                            <form method="post" action="#">
                                 <div class="form-group">
                                     <input type="search" name="search-field" value="" placeholder="Search Products...">
                                     <button type="submit"><span class="icon fa fa-search"></span></button>
@@ -326,17 +326,17 @@
                         </div>
 
                         <!--Category Widget-->
-                    	<div class="sidebar-widget category-widget">
-                        	<div class="sidebar-title">
+                        <div class="sidebar-widget category-widget">
+                            <div class="sidebar-title">
                                 <h2>PRODUCT CATEGORIES</h2>
                             </div>
                             <ul class="list-two style-two">
-                            	<li><a href="#">Helmets (10)</a></li>
-                                <li><a href="#">Safety Gears (25)</a></li>
-                                <li><a href="#">Glass (6)</a></li>
-                                <li><a href="#">Safety Shoes (4)</a></li>
-                                <li><a href="#">Industry Mask (12)</a></li>
-                                <li><a href="#">Gloves (3)</a></li>
+                                <li><a href="#">Animal Skin (3)</a></li>
+                                <li><a href="#">Tree Seedlings (25)</a></li>
+                                <li><a href="#">Coffee Products (6)</a></li>
+                                <!--                                <li><a href="#">Safety Shoes (4)</a></li>-->
+                                <!--                                <li><a href="#">Industry Mask (12)</a></li>-->
+                                <!--                                <li><a href="#">Gloves (3)</a></li>-->
                             </ul>
                         </div>
 
@@ -346,11 +346,11 @@
                             <div class="outer-box">
                                 <div class="range-slider-price" id="range-slider-price"></div>
                                 <div class="form-group clearfix">
-                                	<div class="pull-right">
-                                    	<span class="left-val">$<input type="text" class="val-box text-left" id="min-value-rangeslider"></span> - <span class="right-val">$<input type="text" class="val-box text-right" id="max-value-rangeslider"></span>
+                                    <div class="pull-right">
+                                        <span class="left-val">Ksh<input type="text" class="val-box text-left" id="min-value-rangeslider"></span> - <span class="right-val">Ksh<input type="text" class="val-box text-right" id="max-value-rangeslider"></span>
                                     </div>
                                     <div class="pull-left">
-                                    	<button type="button" class="theme-btn btn-style-two">Filter</button>
+                                        <button type="button" class="theme-btn btn-style-two">Filter</button>
                                     </div>
                                 </div>
                             </div>
@@ -358,16 +358,12 @@
 
                         <!--Popular Tags-->
                         <div class="sidebar-widget popular-tags">
-                        	<div class="sidebar-title">
-                            	<h2>POPULAR TAGS</h2>
+                            <div class="sidebar-title">
+                                <h2>POPULAR TAGS</h2>
                             </div>
-                            <a href="#">Safety Gears</a>
-                            <a href="#">Helmet</a>
-                            <a href="#">Gloves</a>
-                            <a href="#">Glass</a>
-                            <a href="#">Industry</a>
-                            <a href="#">Shoes</a>
-                            <a href="#">Industry Equipments</a>
+                            <a href="#">Animal Skin</a>
+                            <a href="#">Tree Seedlings</a>
+                            <a href="#">Coffee Products</a>
                         </div>
 
                     </div>
